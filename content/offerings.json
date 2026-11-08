@@ -1,0 +1,1384 @@
+[
+  {
+    "title": "2M Fleet Telematics",
+    "slug": "fleet-telematics",
+    "route": "/solutions/fleet-telematics",
+    "kind": "solution",
+    "shortName": "Fleet Telematics",
+    "seoTitle": "Fleet Management & GPS Tracking Software | 2M Designers",
+    "description": "Fleet management and GPS tracking software with live tracking, driver behaviour scoring, fuel and temperature monitoring, geofencing and maintenance.",
+    "keywords": [
+      "fleet management software Pakistan",
+      "GPS tracking software",
+      "telematics solution",
+      "vehicle tracking system",
+      "fleet tracking platform",
+      "driver behaviour monitoring"
+    ],
+    "headline": "Know where every vehicle is, and what every driver is doing",
+    "summary": "2M Fleet Telematics is a complete tracking and fleet management platform — live positions, driver scoring, fuel and temperature monitoring, maintenance, geofencing and reporting, with a mobile app for drivers and a portal for your customers.",
+    "tagline": "Live tracking, driver behaviour and fleet analytics in one platform",
+    "overview": [
+      "Most fleet operators are not short of data. They are short of a single place to see it. Positions sit in one system, maintenance in a spreadsheet, fuel in another, and nobody can answer a simple question like which vehicles cost the most to run last quarter.",
+      "2M Fleet Telematics consolidates the operation. Devices report into one platform, the platform enforces your rules, and the reports come out in a form a manager can act on rather than a log a technician has to interpret.",
+      "The platform is already in production with operators in Pakistan and the United Arab Emirates, tracking live commercial fleets across mixed device estates."
+    ],
+    "industries": [
+      "Logistics and transport",
+      "Distribution",
+      "Cold chain",
+      "Construction",
+      "Public sector fleets",
+      "Rental and leasing"
+    ],
+    "outcomes": [
+      {
+        "title": "Connected",
+        "copy": "Fleet visibility in one platform"
+      },
+      {
+        "title": "Live",
+        "copy": "Monitoring and alerting"
+      },
+      {
+        "title": "Mixed",
+        "copy": "GPS device support"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Live tracking that stays live",
+        "copy": "Vehicle positions, speed, ignition and immobilizer state on one map, updating continuously. Cluster thousands of vehicles or follow one, without the map slowing to a crawl."
+      },
+      {
+        "title": "Driver behaviour that changes behaviour",
+        "copy": "Harsh braking, harsh acceleration, cornering, overspeeding and idling scored per driver and per trip, so safety conversations are held with evidence instead of impressions."
+      },
+      {
+        "title": "Fuel and temperature monitoring",
+        "copy": "Fuel level, consumption trends and refuelling or drain events. Cold-chain temperature logging with threshold alerts and exportable compliance records."
+      },
+      {
+        "title": "Maintenance before breakdown",
+        "copy": "Service schedules by distance or date, with due and overdue alerts, request workflows and full history per vehicle — so maintenance is planned, not reactive."
+      },
+      {
+        "title": "Geofencing and overstay",
+        "copy": "Draw zones on the map and alert on entry, exit or overstay. Useful for customer sites, restricted areas, depots and unauthorised night movement."
+      },
+      {
+        "title": "Commands, not just visibility",
+        "copy": "Send engine immobilise and release commands from the platform with confirmation from the vehicle's own state, plus a full audit trail of who sent what and when."
+      }
+    ],
+    "modules": [
+      "Real-time GPS tracking",
+      "Historical route replay",
+      "Driver behaviour scoring",
+      "Fuel monitoring",
+      "Temperature monitoring",
+      "Vehicle maintenance scheduling",
+      "Route planning",
+      "Geofencing and zones",
+      "Trip and stop history",
+      "Real-time alerts and notifications",
+      "Remote command execution",
+      "Reports and analytics suite",
+      "Excel, PDF and CSV export",
+      "CRM integration",
+      "ERP integration",
+      "Driver mobile application",
+      "Customer portal",
+      "Multi-user roles and permissions",
+      "Multi-company and branch support",
+      "GPS device integration",
+      "Third-party API access",
+      "Toll and traffic fine reporting",
+      "Admin dashboard",
+      "Audit logging"
+    ],
+    "faqs": [
+      {
+        "question": "Does it work with our existing GPS devices?",
+        "answer": "In most cases, yes. The platform is device-agnostic and already runs across mixed hardware estates. Send us the device models and firmware you use and we will confirm compatibility before you commit to anything."
+      },
+      {
+        "question": "Can it handle a large fleet?",
+        "answer": "Yes. The platform is built for continuous ingest from thousands of devices, with map clustering and paginated reporting so the interface stays usable as the fleet grows."
+      },
+      {
+        "question": "Is the platform available in Arabic?",
+        "answer": "Yes. The platform supports full Arabic with right-to-left layout, Arabic reporting and Arabic document export — relevant if you operate in or sell into the GCC, where Arabic support is often a tender requirement."
+      },
+      {
+        "question": "Can we integrate it with our ERP or accounting system?",
+        "answer": "Yes. We expose a documented API and build integrations to ERP, CRM, accounting and dispatch systems. Integration is a standard part of our delivery rather than a separate project."
+      },
+      {
+        "question": "Do drivers get their own application?",
+        "answer": "Yes. The driver app covers trip assignment, navigation handoff, status updates, document capture and messaging, on both Android and iOS."
+      }
+    ],
+    "related": [
+      "Driver Management System",
+      "2M ERP",
+      "Mobile App Development"
+    ],
+    "closing": [
+      "See 2M Fleet Telematics on your own data",
+      "A working demo configured around your operation, not a generic slide deck. Tell us your fleet size, branches or current systems and we will set it up."
+    ]
+  },
+  {
+    "title": "2M ERP",
+    "slug": "erp",
+    "route": "/solutions/erp",
+    "kind": "solution",
+    "shortName": "ERP",
+    "seoTitle": "ERP Software for Business Operations | 2M Designers",
+    "description": "Modular ERP software for accounting, inventory, sales, purchasing, HR, payroll, warehouse and multi-branch operations, customised to your business.",
+    "keywords": [
+      "ERP software Pakistan",
+      "ERP system",
+      "business management software",
+      "inventory management software",
+      "accounting software integration"
+    ],
+    "headline": "One system instead of nine spreadsheets",
+    "summary": "2M ERP brings accounting, inventory, sales, purchasing, HR, payroll and reporting into a single platform with the modules you need and none of the ones you do not.",
+    "tagline": "Run finance, inventory, sales, HR and reporting from one system",
+    "overview": [
+      "Growing businesses rarely fail because they lack data. They struggle because the same number lives in four places and no two agree. Stock says one thing, accounts say another, and closing the month takes a week of reconciliation nobody enjoys.",
+      "2M ERP is modular. You start with the modules that hurt most — usually inventory and finance — and add the rest as the business is ready, rather than paying for a full implementation you will only half use.",
+      "Where an off-the-shelf ERP would force you to change how you work, we adapt the system to the process you already run profitably."
+    ],
+    "industries": [
+      "Trading and distribution",
+      "Manufacturing",
+      "Retail",
+      "Logistics",
+      "Services",
+      "Wholesale"
+    ],
+    "outcomes": [
+      {
+        "title": "1",
+        "copy": "System of record for the business"
+      },
+      {
+        "title": "Faster",
+        "copy": "Month-end close and reconciliation"
+      },
+      {
+        "title": "Modular",
+        "copy": "Implement in stages, not big bang"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Modular by design",
+        "copy": "Take accounting and inventory now, add HR, payroll and warehouse later. Each module works standalone and better together."
+      },
+      {
+        "title": "Multi-branch from day one",
+        "copy": "Separate branches with consolidated reporting, inter-branch transfers and per-branch permissions, without running separate systems."
+      },
+      {
+        "title": "Real reporting",
+        "copy": "Dashboards for management and detailed exports for finance, so the same figures answer both a board question and an audit request."
+      },
+      {
+        "title": "Integrates with what you keep",
+        "copy": "Existing POS, tracking, e-commerce or accounting tools connect via API rather than being ripped out."
+      }
+    ],
+    "modules": [
+      "Accounting and finance",
+      "General ledger",
+      "Accounts receivable and payable",
+      "Inventory management",
+      "Sales and quotations",
+      "Purchase and procurement",
+      "HR management",
+      "Payroll",
+      "Attendance and leave",
+      "Customer management",
+      "Vendor management",
+      "Warehouse management",
+      "Stock transfers",
+      "Multi-branch operations",
+      "Reports and dashboards",
+      "Business analytics",
+      "User roles and permissions",
+      "POS integration",
+      "Tax and compliance reporting",
+      "Document management",
+      "Audit trail"
+    ],
+    "faqs": [
+      {
+        "question": "Do we have to replace everything at once?",
+        "answer": "No, and we would advise against it. Most successful implementations start with one or two modules, prove the value, and expand. A big-bang cutover across every department at once is the most common way ERP projects fail."
+      },
+      {
+        "question": "Can it handle our tax and compliance requirements?",
+        "answer": "Yes. Tax handling is configured to your jurisdiction, and we build the statutory reports your accountants and auditors actually need."
+      },
+      {
+        "question": "Can we keep our current accounting software?",
+        "answer": "Often yes. If your finance team is productive in a tool they know, we integrate rather than replace, and sync the entries that matter."
+      },
+      {
+        "question": "How is our data secured?",
+        "answer": "Role-based access, full audit logging, encrypted transport, and backups on a defined schedule. Hosting can be on our managed cloud or your own infrastructure."
+      }
+    ],
+    "related": [
+      "2M POS",
+      "Custom Software Development",
+      "API Development & Integrations"
+    ],
+    "closing": [
+      "See 2M ERP on your own data",
+      "A working demo configured around your operation, not a generic slide deck. Tell us your fleet size, branches or current systems and we will set it up."
+    ]
+  },
+  {
+    "title": "2M Ship Flow",
+    "slug": "ship-flow",
+    "route": "/solutions/ship-flow",
+    "kind": "solution",
+    "shortName": "Ship Flow",
+    "seoTitle": "Shipping & Freight Forwarding Software | 2M Designers",
+    "description": "Shipping and freight forwarding software — booking, cargo tracking, quotations, invoicing, document management and profitability reporting.",
+    "keywords": [
+      "shipping and forwarding software",
+      "freight forwarding system",
+      "cargo tracking software",
+      "logistics management software"
+    ],
+    "headline": "From enquiry to delivery, on one thread",
+    "summary": "2M Ship Flow digitises the forwarding workflow — quotation, booking, documentation, cargo tracking, invoicing and profitability — so a shipment stops living across email, WhatsApp and a shared folder.",
+    "tagline": "Shipping, forwarding and freight operations on one workflow",
+    "overview": [
+      "Freight forwarding runs on documents and follow-up. The margin on a shipment is decided by how quickly a quotation goes out, whether the paperwork is right first time, and whether anyone noticed the demurrage clock started.",
+      "Ship Flow gives every shipment a single record that carries it from enquiry to invoice, with the documents attached, the status current and the profitability visible while you can still do something about it."
+    ],
+    "industries": [
+      "Freight forwarding",
+      "Shipping lines",
+      "Customs clearance",
+      "Cargo handling",
+      "3PL and warehousing"
+    ],
+    "outcomes": [
+      {
+        "title": "One",
+        "copy": "Record per shipment, end to end"
+      },
+      {
+        "title": "Live",
+        "copy": "Margin visibility per job"
+      },
+      {
+        "title": "Self-serve",
+        "copy": "Status for customers and agents"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Quotation to invoice on one record",
+        "copy": "No re-keying between systems. The quotation becomes the booking, the booking carries the documents, and the invoice draws from actual costs."
+      },
+      {
+        "title": "Document control",
+        "copy": "Bills of lading, packing lists, customs paperwork and certificates attached to the shipment, versioned and searchable instead of buried in an inbox."
+      },
+      {
+        "title": "Customer and agent visibility",
+        "copy": "Give customers and overseas agents controlled access to the status of their own shipments and stop answering the same question by email."
+      },
+      {
+        "title": "Profitability while it still matters",
+        "copy": "Cost and revenue tracked per shipment and per customer, so a job that is losing money is visible during the job."
+      }
+    ],
+    "modules": [
+      "Shipment booking",
+      "Cargo tracking",
+      "Quotation management",
+      "Customer management",
+      "Agent management",
+      "Invoice management",
+      "Document management",
+      "Freight forwarding workflow",
+      "Delivery status updates",
+      "Port, warehouse and dispatch tracking",
+      "Container management",
+      "Rate management",
+      "Profitability dashboard",
+      "Reports and analytics",
+      "User roles and permissions",
+      "Accounting integration"
+    ],
+    "faqs": [
+      {
+        "question": "Can customers track their own shipments?",
+        "answer": "Yes. Customers and overseas agents get controlled portal access limited to their own shipments, which removes a large share of routine status enquiries."
+      },
+      {
+        "question": "Does it handle both air and sea freight?",
+        "answer": "Yes, with workflows and documentation appropriate to each, including multi-modal shipments."
+      },
+      {
+        "question": "Can it integrate with our accounting system?",
+        "answer": "Yes. Invoices and cost entries can be pushed to your accounting package so finance is not re-entering the same figures."
+      }
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "2M ERP",
+      "API Development & Integrations"
+    ],
+    "closing": [
+      "See 2M Ship Flow on your own data",
+      "A working demo configured around your operation, not a generic slide deck. Tell us your fleet size, branches or current systems and we will set it up."
+    ]
+  },
+  {
+    "title": "Driver Management System",
+    "slug": "driver-management",
+    "route": "/solutions/driver-management",
+    "kind": "solution",
+    "shortName": "Driver Management",
+    "seoTitle": "Driver Management System for Fleets | 2M Designers",
+    "description": "Driver profiles, licence and document expiry, attendance, trip assignment, behaviour scoring, violations, training records and a driver app.",
+    "keywords": [
+      "driver management system",
+      "driver behaviour monitoring",
+      "fleet driver app",
+      "driver compliance software"
+    ],
+    "headline": "Your drivers are your biggest risk and your biggest lever",
+    "summary": "A dedicated platform for driver records, document compliance, attendance, trip assignment, behaviour scoring and safety — with a mobile app the drivers will actually use.",
+    "tagline": "Driver records, compliance, performance and safety in one place",
+    "overview": [
+      "Vehicles are tracked closely and drivers are often tracked in a folder. Yet driver behaviour determines fuel burn, insurance exposure, accident rates and vehicle life more than any other single factor.",
+      "This platform puts driver records, licence and visa expiry, attendance, assignments, scoring and violations in one system, and gives each driver an app for their own trips, documents and performance."
+    ],
+    "industries": [
+      "Logistics and transport",
+      "Distribution",
+      "Passenger transport",
+      "Construction",
+      "Rental fleets"
+    ],
+    "outcomes": [
+      {
+        "title": "Proactive",
+        "copy": "Document expiry reminders"
+      },
+      {
+        "title": "Per-driver",
+        "copy": "Scoring and accountability"
+      },
+      {
+        "title": "Mobile",
+        "copy": "App for every driver"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Compliance that warns you in advance",
+        "copy": "Licence, visa, permit and medical expiry tracked with escalating alerts, so a driver is never on the road with a lapsed document by accident."
+      },
+      {
+        "title": "Behaviour scoring drivers can see",
+        "copy": "Each driver sees their own score and events. Visibility changes behaviour more reliably than a monthly report to management."
+      },
+      {
+        "title": "Assignment and attendance",
+        "copy": "Assign trips and vehicles, record attendance and hours, and see who is available before promising a customer a delivery slot."
+      },
+      {
+        "title": "Training and incident records",
+        "copy": "Training completed, violations issued and incidents recorded against the driver's file — the evidence trail insurers and regulators ask for."
+      }
+    ],
+    "modules": [
+      "Driver profiles",
+      "Licence and document management",
+      "Expiry alerts",
+      "Driver attendance",
+      "Trip assignment",
+      "Behaviour scoring",
+      "Performance reports",
+      "Violation alerts and records",
+      "Training records",
+      "Incident and accident log",
+      "Driver mobile application",
+      "Safety monitoring",
+      "Payroll and allowance inputs",
+      "Roles and permissions"
+    ],
+    "faqs": [
+      {
+        "question": "Does this work without the full fleet platform?",
+        "answer": "Yes, it runs standalone. It is considerably more useful alongside 2M Fleet Telematics, because behaviour scoring is then fed by live vehicle telemetry rather than manual entry."
+      },
+      {
+        "question": "What is in the driver app?",
+        "answer": "Assigned trips, navigation handoff, status updates, document upload and expiry reminders, messaging, and the driver's own behaviour score."
+      },
+      {
+        "question": "Can we use it for owner-drivers and subcontractors?",
+        "answer": "Yes. Subcontracted drivers can be held to the same document and behaviour standards without being on your payroll."
+      }
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Task Management System",
+      "Mobile App Development"
+    ],
+    "closing": [
+      "See Driver Management System on your own data",
+      "A working demo configured around your operation, not a generic slide deck. Tell us your fleet size, branches or current systems and we will set it up."
+    ]
+  },
+  {
+    "title": "Task Management System",
+    "slug": "task-management",
+    "route": "/solutions/task-management",
+    "kind": "solution",
+    "shortName": "Task Management",
+    "seoTitle": "Task & Workflow Management System | 2M Designers",
+    "description": "Task and workflow management with department-wise tasks, assignment, deadlines, notifications, status tracking and productivity dashboards.",
+    "keywords": [
+      "task management system",
+      "workflow management software",
+      "business automation software",
+      "team productivity software"
+    ],
+    "headline": "Work that is assigned, visible and finished",
+    "summary": "A task and workflow platform built for operational teams — department-wise work, clear ownership, deadlines that are enforced, and a dashboard that shows where things are stuck.",
+    "tagline": "Assign work, track progress and see where things stall",
+    "overview": [
+      "Operational work fails quietly. A request made verbally, a task nobody owns, an approval sitting in someone's inbox while a customer waits.",
+      "This system gives every piece of work an owner, a deadline and a visible status, and gives managers a view of throughput rather than a promise that things are under control."
+    ],
+    "industries": [
+      "Logistics",
+      "Manufacturing",
+      "Services",
+      "Retail chains",
+      "Professional services",
+      "SMEs"
+    ],
+    "outcomes": [
+      {
+        "title": "Every",
+        "copy": "Task has a named owner"
+      },
+      {
+        "title": "Visible",
+        "copy": "Bottlenecks, before they escalate"
+      },
+      {
+        "title": "Measured",
+        "copy": "Throughput per team"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Ownership is explicit",
+        "copy": "Every task has one accountable person and a deadline. Shared responsibility is how work disappears."
+      },
+      {
+        "title": "Department-aware",
+        "copy": "Route work by department with the right approvals, instead of a flat list where everything looks equally urgent."
+      },
+      {
+        "title": "Context travels with the task",
+        "copy": "Comments, attachments and history stay on the task, so a handover does not require a meeting."
+      },
+      {
+        "title": "Productivity you can measure",
+        "copy": "Completion rates, overdue trends and workload by person or team — the basis for a staffing decision rather than a hunch."
+      }
+    ],
+    "modules": [
+      "Task creation and templates",
+      "Department-wise tasks",
+      "Employee assignment",
+      "Priority levels",
+      "Deadline tracking",
+      "Notifications and reminders",
+      "Comments and attachments",
+      "Status workflow",
+      "Recurring tasks",
+      "Approval steps",
+      "Reports",
+      "Team productivity dashboard",
+      "Roles and permissions"
+    ],
+    "faqs": [
+      {
+        "question": "How is this different from a generic to-do app?",
+        "answer": "It is built around departments, approvals and operational reporting rather than personal productivity, and it integrates with the other systems your business runs."
+      },
+      {
+        "question": "Can it be tailored to our workflow?",
+        "answer": "Yes. Statuses, approval steps and department routing are configured to how your business actually works."
+      }
+    ],
+    "related": [
+      "2M ERP",
+      "Custom Software Development",
+      "Driver Management System"
+    ],
+    "closing": [
+      "See Task Management System on your own data",
+      "A working demo configured around your operation, not a generic slide deck. Tell us your fleet size, branches or current systems and we will set it up."
+    ]
+  },
+  {
+    "title": "2M POS",
+    "slug": "pos",
+    "route": "/solutions/pos",
+    "kind": "solution",
+    "shortName": "POS",
+    "seoTitle": "POS Software for Retail & Multi-Branch | 2M Designers",
+    "description": "POS software with billing, inventory control, barcode scanning, purchase management, returns, multi-branch support and ERP integration.",
+    "keywords": [
+      "POS software",
+      "point of sale system",
+      "retail billing software",
+      "multi branch POS"
+    ],
+    "headline": "Sell fast at the counter, know your margin at head office",
+    "summary": "A point-of-sale system that keeps queues moving and keeps stock, purchases and branch performance accurate — with the same data flowing into your ERP.",
+    "tagline": "Point of sale for retail, restaurants and multi-branch operations",
+    "overview": [
+      "A POS that only prints receipts creates work rather than removing it. Stock drifts from reality, purchasing guesses, and head office finds out what happened a month late.",
+      "2M POS is built to be the operational front end of your stock and finance data, not a separate island. Sales reduce inventory, purchases replenish it, and every branch reports into one view."
+    ],
+    "industries": [
+      "Retail",
+      "Restaurants and cafés",
+      "Pharmacies",
+      "Wholesale",
+      "Multi-branch chains"
+    ],
+    "outcomes": [
+      {
+        "title": "Accurate",
+        "copy": "Stock across every branch"
+      },
+      {
+        "title": "Live",
+        "copy": "Sales and margin reporting"
+      },
+      {
+        "title": "Offline",
+        "copy": "Resilient at the counter"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Fast at the counter",
+        "copy": "Barcode scanning, keyboard-first operation and offline resilience, so a slow connection does not stop a sale."
+      },
+      {
+        "title": "Inventory that stays accurate",
+        "copy": "Stock moves on every sale, return, transfer and purchase, with stock-take tools to correct reality when it drifts."
+      },
+      {
+        "title": "Multi-branch by default",
+        "copy": "Per-branch pricing, stock and permissions with consolidated reporting across the group."
+      },
+      {
+        "title": "Feeds finance directly",
+        "copy": "Sales, tax and cost of goods flow into 2M ERP or your accounting package without manual entry."
+      }
+    ],
+    "modules": [
+      "Sales billing",
+      "Barcode scanning",
+      "Inventory control",
+      "Stock take and adjustment",
+      "Customer records",
+      "Loyalty and discounts",
+      "Purchase management",
+      "Supplier records",
+      "Returns and exchanges",
+      "Cash drawer and shift management",
+      "Multi-branch support",
+      "Multi-user permissions",
+      "Tax configuration",
+      "Reports and dashboards",
+      "ERP integration",
+      "Receipt and label printing"
+    ],
+    "faqs": [
+      {
+        "question": "Does it work if the internet drops?",
+        "answer": "Yes. The counter keeps selling and synchronises when the connection returns, which matters in locations where connectivity is not guaranteed."
+      },
+      {
+        "question": "Can it run across multiple branches?",
+        "answer": "Yes, with per-branch stock and pricing plus consolidated group reporting."
+      },
+      {
+        "question": "Does it work with our existing hardware?",
+        "answer": "In most cases yes — standard barcode scanners, receipt printers and cash drawers are supported. Send us your hardware list and we will confirm."
+      }
+    ],
+    "related": [
+      "2M ERP",
+      "Custom Software Development",
+      "Cloud Hosting & Infrastructure"
+    ],
+    "closing": [
+      "See 2M POS on your own data",
+      "A working demo configured around your operation, not a generic slide deck. Tell us your fleet size, branches or current systems and we will set it up."
+    ]
+  },
+  {
+    "title": "2M School Management System",
+    "slug": "school-management-system",
+    "route": "/solutions/school-management-system",
+    "kind": "solution",
+    "shortName": "School Management",
+    "seoTitle": "School Management System & Education ERP | 2M Designers",
+    "description": "A secure web-based school management system for admissions, students, teachers, fees, payroll, expenses, accounting, reports and multi-campus operations.",
+    "keywords": [
+      "school management system Pakistan",
+      "school ERP software",
+      "student fee management system",
+      "education management software",
+      "multi campus school ERP",
+      "school accounting software"
+    ],
+    "headline": "Run academics, fees, payroll and reporting from one secure school ERP",
+    "summary": "2M School Management System is a central web-based platform for schools, academies and multi-campus institutions. It connects student and teacher records, fee collection, payroll, expenses, accounting controls and management reporting in one role-based system.",
+    "tagline": "One digital operating system for academic and financial management",
+    "overview": [
+      "School operations become difficult to control when admissions live in files, fees in spreadsheets, attendance in registers and accounting in a separate application. The result is repeated data entry, delayed reporting and decisions made without a complete view.",
+      "2M School Management System brings those workflows together. Administrators work from a central student and teacher database, finance teams track collections and expenses against structured accounts, and management sees current operational and financial indicators from one dashboard.",
+      "The modular design supports a single school, academy or growing multi-campus group. Role-based access, audit history and controlled settings help each team work with the information it needs while protecting sensitive student and financial records."
+    ],
+    "industries": [
+      "Schools and academies",
+      "Multi-campus institutions",
+      "Colleges and training centres",
+      "Education groups",
+      "Private education networks",
+      "Administrative and finance teams"
+    ],
+    "outcomes": [
+      {
+        "title": "Centralised",
+        "copy": "Student and teacher records"
+      },
+      {
+        "title": "Visible",
+        "copy": "Fees, expenses and performance"
+      },
+      {
+        "title": "Controlled",
+        "copy": "Roles, accounts and audit history"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Management dashboard",
+        "copy": "Monitor student and teacher totals, current fee collection, pending balances, fee recovery and month-wise profit or loss from a single operational dashboard."
+      },
+      {
+        "title": "Complete student lifecycle",
+        "copy": "Maintain student profiles, guardian contacts, photos, admission status and academic mapping across class, section, shift, programme and course."
+      },
+      {
+        "title": "Fee collection and recovery",
+        "copy": "Record student-wise payments, partial balances and monthly status; generate individual or combined vouchers and review defaulters by student, class, age and amount."
+      },
+      {
+        "title": "Teacher and payroll control",
+        "copy": "Manage faculty profiles, qualifications, assignments and portal access, then process salaries, allowances, deductions, payslips and payroll reversals through a controlled workflow."
+      },
+      {
+        "title": "Integrated school accounting",
+        "copy": "Link fees, salaries and expenses to the chart of accounts and cost centres so ledgers, trial balance, profit and loss and balance sheet reports are generated from the same records."
+      },
+      {
+        "title": "Reports built for action",
+        "copy": "Search, filter, print and export operational and financial reports for management review, fee follow-up, accountant workflows and audit preparation."
+      }
+    ],
+    "modules": [
+      "Management dashboard",
+      "Student registration and profiles",
+      "Guardian and contact records",
+      "Admissions and status tracking",
+      "Class, section and shift mapping",
+      "Programme and course mapping",
+      "Student bulk upload",
+      "Student search, print and export",
+      "Teacher registration and profiles",
+      "Qualifications and class assignment",
+      "Teacher portal credentials",
+      "Teacher search, print and export",
+      "Student-wise fee collection",
+      "Monthly and annual fee tracking",
+      "Partial payment and balance support",
+      "Individual fee vouchers",
+      "Combined fee voucher printing",
+      "Fee status and ageing",
+      "Defaulter analysis by student and class",
+      "Administrative attendance management",
+      "Salary vouchers and payslips",
+      "Payroll processing and reversal",
+      "Allowances and deductions",
+      "Expense categorisation",
+      "Chart of accounts",
+      "Cost centre tagging",
+      "Voucher-based accounting",
+      "Profit and loss statement",
+      "Balance sheet and trial balance",
+      "Ledger and management reports",
+      "Excel, PDF and Word export",
+      "Role-based permissions",
+      "Activity and audit logs",
+      "Multi-campus readiness",
+      "Cloud-ready deployment"
+    ],
+    "faqs": [
+      {
+        "question": "Can the system support more than one campus?",
+        "answer": "Yes. The system is designed for both single institutions and multi-campus groups, with structured access and consolidated reporting configured around the organisation."
+      },
+      {
+        "question": "Can fees be tracked when a parent pays only part of the amount?",
+        "answer": "Yes. Partial payments, remaining balances, monthly status and ageing are supported, so finance teams can follow up using current student and class-level records."
+      },
+      {
+        "question": "Does it include school accounting and payroll?",
+        "answer": "Yes. Fee collection, expenses, salary processing, chart of accounts, ledgers, trial balance, profit and loss and balance sheet reporting are included in the available scope."
+      },
+      {
+        "question": "Can our existing student records be imported?",
+        "answer": "Yes. Bulk upload is supported. We review and map the existing data before migration so classes, contacts, balances and identifiers are brought across consistently."
+      },
+      {
+        "question": "How is access to student and financial data controlled?",
+        "answer": "Role-based permissions, controlled settings and activity logs are used to limit access and maintain traceability. Final roles are configured around the institution's administrative structure."
+      }
+    ],
+    "related": [
+      "2M ERP",
+      "Custom Software Development",
+      "Cloud Hosting & Infrastructure"
+    ],
+    "closing": [
+      "See the school management workflow in a focused demo",
+      "Tell us your campus structure, student count and current fee process. We will demonstrate the modules that match your institution and outline a practical migration approach."
+    ]
+  },
+  {
+    "title": "Custom Software Development",
+    "slug": "custom-software",
+    "route": "/services/custom-software",
+    "kind": "service",
+    "shortName": "Custom Software",
+    "seoTitle": "Custom Software Development | 2M Designers",
+    "description": "Custom software for business automation, internal portals, CRM, dashboards, reporting, workflow automation and legacy modernisation.",
+    "keywords": [
+      "custom software development company",
+      "business automation software",
+      "enterprise software development",
+      "SaaS development"
+    ],
+    "headline": "When the off-the-shelf answer does not fit",
+    "summary": "We build the systems that carry the part of your business no product on the market understands — the workflow that is your competitive advantage.",
+    "tagline": "Systems built around how your business actually works",
+    "overview": [
+      "Standard products cover standard problems. The processes that make a business distinctive are usually the ones being held together by spreadsheets, WhatsApp groups and one person who knows how it all works.",
+      "We build those systems properly: designed around your workflow, integrated with what you already run, documented, and handed over so you are not dependent on us to keep operating."
+    ],
+    "industries": [
+      "Logistics",
+      "Manufacturing",
+      "Trading",
+      "Retail",
+      "Healthcare",
+      "Education",
+      "Professional services"
+    ],
+    "outcomes": [
+      {
+        "title": "Scoped",
+        "copy": "Before a price is committed"
+      },
+      {
+        "title": "Documented",
+        "copy": "Built to be handed over"
+      },
+      {
+        "title": "Integrated",
+        "copy": "With systems you already run"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "We scope before we quote",
+        "copy": "A documented requirement, integration map and success criteria come first. Fixed prices given without them are guesses that someone pays for later."
+      },
+      {
+        "title": "Built in visible increments",
+        "copy": "You review working software on a real environment throughout, rather than receiving a status report and hoping."
+      },
+      {
+        "title": "Integration-first",
+        "copy": "New systems that do not connect to your existing ones just move the manual work somewhere else."
+      },
+      {
+        "title": "Handover is part of delivery",
+        "copy": "Documentation, admin tooling and training so your team can run and extend the system."
+      }
+    ],
+    "modules": [
+      "Custom web applications",
+      "Business automation systems",
+      "Internal management portals",
+      "CRM development",
+      "ERP customisation",
+      "Dashboard development",
+      "Reporting systems",
+      "Workflow automation",
+      "Enterprise SaaS platforms",
+      "Legacy system modernisation",
+      "Data migration",
+      "Third-party integration",
+      "Technical documentation"
+    ],
+    "faqs": [
+      {
+        "question": "How do you price custom work?",
+        "answer": "After a scoping phase. We produce a documented requirement and integration map, then quote fixed price against that defined scope. Anyone quoting a number before understanding your workflow is guessing."
+      },
+      {
+        "question": "Who owns the code?",
+        "answer": "You do, on final payment. Source code, documentation and deployment instructions are handed over."
+      },
+      {
+        "question": "Can you take over an existing system?",
+        "answer": "Yes. We audit what exists, report honestly on what is worth keeping, and modernise incrementally rather than insisting on a rewrite."
+      }
+    ],
+    "related": [
+      "API Development & Integrations",
+      "2M ERP",
+      "Website Development"
+    ],
+    "closing": [
+      "Let’s scope your custom software project",
+      "Tell us the problem rather than the specification. We will come back with an approach, a timeline and a documented scope before any price is committed."
+    ]
+  },
+  {
+    "title": "Website Development",
+    "slug": "website-development",
+    "route": "/services/website-development",
+    "kind": "service",
+    "shortName": "Websites",
+    "seoTitle": "Website Development Company | 2M Designers",
+    "description": "Corporate websites, landing pages, SEO-friendly builds, WordPress, custom React sites, e-commerce, redesign and speed optimisation.",
+    "keywords": [
+      "website development company",
+      "corporate website design",
+      "ecommerce website development",
+      "SEO friendly website"
+    ],
+    "headline": "A website that sells, not a brochure that sits there",
+    "summary": "Fast, SEO-ready corporate and e-commerce websites built to convert visitors into enquiries — with the analytics to prove whether they do.",
+    "tagline": "Corporate and e-commerce websites that generate enquiries",
+    "overview": [
+      "Most business websites describe the company and stop. They rank for the company name, which the people who already know you search for, and generate almost nothing from the people who do not.",
+      "We build sites around the search terms your buyers actually use, with a clear path to an enquiry on every page and the measurement to see which pages earn their keep."
+    ],
+    "industries": [
+      "All sectors",
+      "B2B services",
+      "Retail and e-commerce",
+      "Logistics",
+      "Manufacturing"
+    ],
+    "outcomes": [
+      {
+        "title": "SEO-ready",
+        "copy": "Structure, schema and metadata"
+      },
+      {
+        "title": "Fast",
+        "copy": "Optimised for mobile connections"
+      },
+      {
+        "title": "Measured",
+        "copy": "Lead tracking from day one"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Built for search from the start",
+        "copy": "Structure, metadata, schema markup and page speed handled during the build, not bolted on afterwards as an SEO project."
+      },
+      {
+        "title": "Conversion paths on every page",
+        "copy": "Every page has a next step — enquire, request a demo, download, message on WhatsApp — because a visitor who reads and leaves cost you money."
+      },
+      {
+        "title": "Fast on a mobile connection",
+        "copy": "Optimised images, minimal script weight and server-rendered pages, tested on the connections your customers actually use."
+      },
+      {
+        "title": "You can edit it",
+        "copy": "Content management where you need it, so routine updates do not require a developer and an invoice."
+      }
+    ],
+    "modules": [
+      "Corporate websites",
+      "Landing pages",
+      "SEO-friendly architecture",
+      "WordPress websites",
+      "Custom React and Next.js websites",
+      "E-commerce websites",
+      "Website redesign",
+      "Speed and Core Web Vitals optimisation",
+      "Mobile responsive design",
+      "Content management setup",
+      "Analytics and Search Console setup",
+      "Website maintenance plans"
+    ],
+    "faqs": [
+      {
+        "question": "WordPress or custom build?",
+        "answer": "It depends on who maintains it. WordPress suits content-heavy sites your marketing team updates daily. A custom build suits sites where speed, integration or unusual functionality matter more. We will tell you which one your case calls for."
+      },
+      {
+        "question": "Do you handle hosting?",
+        "answer": "Yes, through our cloud and infrastructure service, including SSL, backups and monitoring."
+      },
+      {
+        "question": "Will it rank?",
+        "answer": "We build the technical foundation that makes ranking possible — structure, speed, schema, metadata. Ranking also depends on content and competition over time, and anyone promising you position one is selling something."
+      }
+    ],
+    "related": [
+      "Social Media Marketing",
+      "Cloud Hosting & Infrastructure",
+      "Custom Software Development"
+    ],
+    "closing": [
+      "Let’s scope your websites project",
+      "Tell us the problem rather than the specification. We will come back with an approach, a timeline and a documented scope before any price is committed."
+    ]
+  },
+  {
+    "title": "Mobile App Development",
+    "slug": "mobile-app-development",
+    "route": "/services/mobile-app-development",
+    "kind": "service",
+    "shortName": "Mobile Apps",
+    "seoTitle": "Mobile App Development — Android & iOS | 2M Designers",
+    "description": "Android and iOS apps — business, fleet tracking, driver, customer and delivery apps with push notifications and location tracking.",
+    "keywords": [
+      "mobile app development company",
+      "android app development",
+      "iOS app development",
+      "fleet tracking app",
+      "driver app"
+    ],
+    "headline": "Apps for the people who work away from a desk",
+    "summary": "Android and iOS applications for drivers, field teams, delivery staff and customers — connected to the same systems your office runs on.",
+    "tagline": "Android and iOS applications for business operations",
+    "overview": [
+      "The people who create most of your operational data — drivers, field engineers, delivery staff — are the least likely to be sitting at a computer. If capturing that data means paperwork at the end of a shift, it arrives late and inaccurate.",
+      "We build mobile applications that capture it where it happens, work on poor connections, and feed straight into your central systems."
+    ],
+    "industries": [
+      "Logistics and transport",
+      "Delivery and courier",
+      "Field services",
+      "Retail",
+      "Distribution"
+    ],
+    "outcomes": [
+      {
+        "title": "iOS + Android",
+        "copy": "Both platforms covered"
+      },
+      {
+        "title": "Offline",
+        "copy": "Works on poor connections"
+      },
+      {
+        "title": "Connected",
+        "copy": "To your central platform"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Built for field conditions",
+        "copy": "Offline capability, low battery impact and interfaces usable in a vehicle or a warehouse, not just in an office."
+      },
+      {
+        "title": "Connected, not standalone",
+        "copy": "Apps talk to your platform through documented APIs, so mobile data is the same data head office sees."
+      },
+      {
+        "title": "Location done responsibly",
+        "copy": "Background tracking configured for accuracy against battery life, with clear consent handling."
+      },
+      {
+        "title": "Published and maintained",
+        "copy": "We handle Play Store and App Store submission, release management and the platform updates that follow."
+      }
+    ],
+    "modules": [
+      "Android applications",
+      "iOS applications",
+      "Fleet tracking apps",
+      "Driver apps",
+      "Customer apps",
+      "Delivery and proof-of-delivery apps",
+      "ERP mobile apps",
+      "Push notifications",
+      "Background location tracking",
+      "Offline-first data capture",
+      "API integration",
+      "Admin and user dashboards",
+      "Store submission and release management"
+    ],
+    "faqs": [
+      {
+        "question": "Native or cross-platform?",
+        "answer": "We choose per project. Cross-platform is efficient for most business apps; native is worth it where continuous background location, battery behaviour or device hardware is central. We will explain the trade-off for your case."
+      },
+      {
+        "question": "Can it work offline?",
+        "answer": "Yes. For field and driver apps we treat offline as the normal condition and synchronise when connectivity returns."
+      },
+      {
+        "question": "Do you handle app store publishing?",
+        "answer": "Yes, including store accounts, submission, review responses and subsequent releases."
+      }
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Driver Management System",
+      "API Development & Integrations"
+    ],
+    "closing": [
+      "Let’s scope your mobile apps project",
+      "Tell us the problem rather than the specification. We will come back with an approach, a timeline and a documented scope before any price is committed."
+    ]
+  },
+  {
+    "title": "Social Media Marketing",
+    "slug": "social-media-marketing",
+    "route": "/services/social-media-marketing",
+    "kind": "service",
+    "shortName": "Marketing",
+    "seoTitle": "Social Media Marketing & Lead Generation | 2M Designers",
+    "description": "Strategy, Facebook, Instagram and LinkedIn management, creative design, ad campaigns and lead generation, reported on cost per enquiry.",
+    "keywords": [
+      "social media marketing agency",
+      "lead generation campaigns",
+      "LinkedIn marketing",
+      "digital marketing services"
+    ],
+    "headline": "Marketing judged on the enquiries it produces",
+    "summary": "Strategy, content and paid campaigns across Facebook, Instagram and LinkedIn — reported against leads and cost per enquiry rather than likes.",
+    "tagline": "Campaigns measured in enquiries, not impressions",
+    "overview": [
+      "Social media reporting is full of numbers that feel good and change nothing. Reach, impressions, follower growth. None of them pay a salary.",
+      "We run campaigns against commercial targets, track enquiries through to the form submission, and report on cost per qualified lead — including when the answer is that a channel is not working."
+    ],
+    "industries": [
+      "B2B services",
+      "Logistics",
+      "Retail",
+      "Real estate",
+      "Education",
+      "Healthcare"
+    ],
+    "outcomes": [
+      {
+        "title": "Cost per lead",
+        "copy": "The metric we report on"
+      },
+      {
+        "title": "Monthly",
+        "copy": "Reporting and strategy review"
+      },
+      {
+        "title": "Tracked",
+        "copy": "Enquiry attribution end to end"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Strategy tied to the sales pipeline",
+        "copy": "Campaigns built around what you sell and who buys it, not a content calendar filled for its own sake."
+      },
+      {
+        "title": "B2B on LinkedIn, reach on Meta",
+        "copy": "Different platforms do different jobs. We use LinkedIn for enterprise decision-makers and Meta for volume and retargeting."
+      },
+      {
+        "title": "Creative that looks like your brand",
+        "copy": "Post and ad design consistent with your website and collateral, so the enquiry lands somewhere familiar."
+      },
+      {
+        "title": "Honest monthly reporting",
+        "copy": "Spend, leads, cost per lead and what we are changing next month. Including the campaigns we are stopping."
+      }
+    ],
+    "modules": [
+      "Social media strategy",
+      "Facebook and Instagram management",
+      "LinkedIn marketing",
+      "Creative post design",
+      "Ad campaign management",
+      "Brand awareness campaigns",
+      "Lead generation campaigns",
+      "Content planning and calendar",
+      "Landing page alignment",
+      "Conversion tracking setup",
+      "Monthly performance reporting"
+    ],
+    "faqs": [
+      {
+        "question": "How quickly will we see leads?",
+        "answer": "Paid campaigns can produce enquiries within the first fortnight. Organic positioning takes months. We will tell you which of the two your budget is actually buying."
+      },
+      {
+        "question": "Do you handle the ad spend?",
+        "answer": "Ad spend is billed separately and paid directly to the platforms, so you keep full visibility of what is spent on media versus management."
+      },
+      {
+        "question": "What if a channel is not working?",
+        "answer": "We report it and stop it. Continuing to bill for a campaign that is not producing enquiries is how agencies lose clients, and deservedly."
+      }
+    ],
+    "related": [
+      "Website Development",
+      "Custom Software Development"
+    ],
+    "closing": [
+      "Let’s scope your marketing project",
+      "Tell us the problem rather than the specification. We will come back with an approach, a timeline and a documented scope before any price is committed."
+    ]
+  },
+  {
+    "title": "Cloud Hosting & Infrastructure",
+    "slug": "cloud-hosting",
+    "route": "/services/cloud-hosting",
+    "kind": "service",
+    "shortName": "Cloud",
+    "seoTitle": "Cloud Hosting & Infrastructure Services | 2M Designers",
+    "description": "Managed cloud hosting and infrastructure — server setup, application and database hosting, verified backups, security hardening, SSL and monitoring.",
+    "keywords": [
+      "cloud hosting provider",
+      "VPS management",
+      "application hosting",
+      "SaaS hosting",
+      "server monitoring"
+    ],
+    "headline": "Infrastructure that someone is actually watching",
+    "summary": "Cloud servers, application and database hosting, backups, security hardening and monitoring — managed, so an outage is noticed by us before it is noticed by your customers.",
+    "tagline": "Secure, monitored infrastructure for business platforms",
+    "overview": [
+      "Most businesses discover the state of their hosting during an incident. The backup that was never tested, the certificate nobody renewed, the disk that filled at 2am.",
+      "We manage infrastructure as an ongoing responsibility: hardened, monitored, backed up on a verified schedule, and sized to what the platform actually needs."
+    ],
+    "industries": [
+      "SaaS platforms",
+      "E-commerce",
+      "Logistics",
+      "Enterprise IT",
+      "SMEs"
+    ],
+    "outcomes": [
+      {
+        "title": "Monitored",
+        "copy": "With alerting, around the clock"
+      },
+      {
+        "title": "Verified",
+        "copy": "Backup and restore testing"
+      },
+      {
+        "title": "Hardened",
+        "copy": "Security as standard config"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Backups that are tested",
+        "copy": "A backup nobody has restored is a hope, not a plan. We verify restores on a schedule and tell you the result."
+      },
+      {
+        "title": "Monitored continuously",
+        "copy": "Uptime, resource and application monitoring with alerting, so problems are handled rather than reported to you by a customer."
+      },
+      {
+        "title": "Hardened by default",
+        "copy": "Firewalls, access control, SSL, patching and audit logging as standard configuration rather than an optional extra."
+      },
+      {
+        "title": "Scales with the platform",
+        "copy": "Capacity planned against real usage, so you are neither paying for idle servers nor discovering limits during your busiest week."
+      }
+    ],
+    "modules": [
+      "Cloud server setup",
+      "VPS and dedicated server management",
+      "Application hosting",
+      "Database hosting",
+      "Backup management and restore testing",
+      "Security configuration and hardening",
+      "SSL certificate setup and renewal",
+      "Server and application monitoring",
+      "Load balancing",
+      "Scalable infrastructure design",
+      "SaaS hosting support",
+      "Migration from existing hosting",
+      "Disaster recovery planning"
+    ],
+    "faqs": [
+      {
+        "question": "Which cloud providers do you work with?",
+        "answer": "The major providers as well as regional hosting where data residency requires it. We recommend based on your compliance needs, latency and budget rather than a partnership arrangement."
+      },
+      {
+        "question": "Can you take over hosting we already have?",
+        "answer": "Yes. We audit the current setup, report what we find honestly, and migrate or harden in place depending on what makes sense."
+      },
+      {
+        "question": "What happens during an outage?",
+        "answer": "Monitoring alerts our team, we respond within the agreed window, and you receive an incident report explaining the cause and what changed to prevent recurrence."
+      }
+    ],
+    "related": [
+      "Custom Software Development",
+      "Website Development",
+      "API Development & Integrations"
+    ],
+    "closing": [
+      "Let’s scope your cloud project",
+      "Tell us the problem rather than the specification. We will come back with an approach, a timeline and a documented scope before any price is committed."
+    ]
+  },
+  {
+    "title": "API Development & Integrations",
+    "slug": "api-integrations",
+    "route": "/services/api-integrations",
+    "kind": "service",
+    "shortName": "API & Integrations",
+    "seoTitle": "API Development & System Integrations | 2M Designers",
+    "description": "REST API development and third-party integrations — payment gateways, ERP and CRM, GPS devices, SMS and WhatsApp, accounting software and middleware.",
+    "keywords": [
+      "API integration services",
+      "REST API development",
+      "payment gateway integration",
+      "ERP integration",
+      "WhatsApp integration"
+    ],
+    "headline": "The manual work between two systems is the work worth removing",
+    "summary": "REST APIs, middleware and third-party integrations connecting your platforms, devices, payment providers, accounting packages and messaging channels.",
+    "tagline": "Make the systems you already own talk to each other",
+    "overview": [
+      "Most operational inefficiency lives between systems rather than inside them. Someone exports a file from one platform and types it into another, and that person is the integration.",
+      "We build the connections properly — documented APIs, resilient middleware, sensible error handling and retries — so data moves without a person in the middle."
+    ],
+    "industries": [
+      "Logistics",
+      "Retail and e-commerce",
+      "Financial services",
+      "Manufacturing",
+      "SaaS platforms"
+    ],
+    "outcomes": [
+      {
+        "title": "Documented",
+        "copy": "Every API we deliver"
+      },
+      {
+        "title": "Resilient",
+        "copy": "Retries and error handling"
+      },
+      {
+        "title": "Observable",
+        "copy": "Failures surface immediately"
+      }
+    ],
+    "capabilities": [
+      {
+        "title": "Designed to fail safely",
+        "copy": "Retries, idempotency and dead-letter handling, because the interesting part of an integration is what happens when the other side is down."
+      },
+      {
+        "title": "Documented for whoever comes next",
+        "copy": "Every API we build ships with documentation your team or another vendor can work from."
+      },
+      {
+        "title": "Devices as well as software",
+        "copy": "GPS hardware, IoT sensors and telematics devices, not just SaaS-to-SaaS connections."
+      },
+      {
+        "title": "Observable in production",
+        "copy": "Logging and monitoring so a failed sync is caught and diagnosed rather than discovered in a month-end variance."
+      }
+    ],
+    "modules": [
+      "REST API development",
+      "Third-party API integration",
+      "Payment gateway integration",
+      "ERP integration",
+      "CRM integration",
+      "GPS and IoT device integration",
+      "SMS gateway integration",
+      "WhatsApp Business integration",
+      "Accounting software integration",
+      "Custom middleware development",
+      "Webhook infrastructure",
+      "API documentation",
+      "Authentication and rate limiting",
+      "Monitoring and alerting"
+    ],
+    "faqs": [
+      {
+        "question": "Can you integrate with a system that has no API?",
+        "answer": "Often yes, through database-level integration, file exchange or screen-level automation. We will be direct about which approach is robust and which is a workaround with a shelf life."
+      },
+      {
+        "question": "How do you handle failures?",
+        "answer": "Retries with backoff, idempotent operations so a repeat does not duplicate data, dead-letter queues for what cannot be processed, and alerting so someone knows."
+      },
+      {
+        "question": "Do we own the integration?",
+        "answer": "Yes, including source code and documentation on final payment."
+      }
+    ],
+    "related": [
+      "Custom Software Development",
+      "2M ERP",
+      "Cloud Hosting & Infrastructure"
+    ],
+    "closing": [
+      "Let’s scope your api & integrations project",
+      "Tell us the problem rather than the specification. We will come back with an approach, a timeline and a documented scope before any price is committed."
+    ]
+  }
+]

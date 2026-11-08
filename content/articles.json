@@ -1,0 +1,897 @@
+[
+  {
+    "title": "What a POS should tell head office that it usually does not",
+    "slug": "pos-and-head-office",
+    "route": "/insights/pos-and-head-office",
+    "topic": "Retail",
+    "draftDate": "20 August 2026",
+    "seoTitle": "What Your POS Should Tell Head Office | 2M Designers",
+    "description": "Most point-of-sale systems report sales accurately and margin badly. The gap between the two is where multi-branch retailers lose money without noticing.",
+    "keywords": [
+      "POS software",
+      "point of sale system",
+      "retail billing software",
+      "multi branch POS",
+      "inventory management software"
+    ],
+    "summary": "Ask a POS what you sold yesterday and you will get an exact answer. Ask what it cost you, which branch is drifting, or what is quietly not selling, and most systems have nothing useful to say.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Point-of-sale software is bought to solve a counter problem: bill the customer quickly and accurately, print a receipt, take the payment. Most systems do that well, and once the queue moves, the purchase is considered successful."
+      },
+      {
+        "type": "paragraph",
+        "text": "The consequence is that POS is evaluated as a till and deployed as one. Meanwhile the data crossing that counter is the most complete record a retailer has of what customers actually do — and in most installations it is used to answer one question."
+      },
+      {
+        "type": "heading",
+        "text": "Sales is not margin"
+      },
+      {
+        "type": "paragraph",
+        "text": "Every POS reports revenue. Far fewer report contribution, because that requires cost of goods to be current, and keeping it current requires purchasing to be connected to selling."
+      },
+      {
+        "type": "paragraph",
+        "text": "Without it, a branch can grow revenue while shrinking profit — discounting to hit a sales target, shifting mix towards high-turnover low-margin lines — and every report on the manager's desk will look like success. The correction arrives at year-end from the accountant, months after the behaviour that caused it."
+      },
+      {
+        "type": "paragraph",
+        "text": "The minimum useful version"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cost of goods attached to the item at the point of sale, so every transaction carries its own margin. Not a monthly average applied retrospectively — that smooths away exactly the variation you needed to see."
+      },
+      {
+        "type": "heading",
+        "text": "Four questions a POS should answer and usually cannot"
+      },
+      {
+        "type": "paragraph",
+        "text": "Which branch is drifting?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Not which branch sells most — that is mostly a function of location and footfall. Which branch's stock accuracy, discount rate, void rate or basket size has moved relative to its own history. Absolute comparisons between branches tell you about their catchments. Trend comparisons against themselves tell you about their management."
+      },
+      {
+        "type": "paragraph",
+        "text": "What is not selling?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sales reports are built around what sold, so slow-moving stock is defined by absence and is correspondingly hard to see. Yet it is where working capital goes to sit. A report of lines with stock on hand and no movement in sixty days is trivial to produce and rarely produced."
+      },
+      {
+        "type": "paragraph",
+        "text": "When do we actually need staff?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Transaction timestamps describe the shape of the trading day precisely — where the peaks are, how long they last, how much they differ by branch and by weekday. Rosters in most retail businesses are set by convention and adjusted by complaint. The data to set them properly is already in the system."
+      },
+      {
+        "type": "paragraph",
+        "text": "Which discounts are we actually giving?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Discretionary discount at the counter is a normal part of retail and a normal place for margin to leak. Recording it as a discount reason code rather than an adjusted price is a small configuration decision with a large reporting consequence: it turns an invisible cost into a measurable one, per branch and per operator."
+      },
+      {
+        "type": "heading",
+        "text": "Stock accuracy is the foundation"
+      },
+      {
+        "type": "paragraph",
+        "text": "None of the above is reliable if the system's stock figure does not match the shelf, and in most retail businesses it does not. Every sale, return, transfer, breakage, sample and purchase must move stock, and the ones that get skipped are always the manual ones: the breakage nobody recorded, the transfer done by phone."
+      },
+      {
+        "type": "paragraph",
+        "text": "Two practical measures help more than any report:"
+      },
+      {
+        "type": "list",
+        "text": "Cycle counting rather than annual stock-take. Counting a rotating subset continuously catches drift while it is still small and traceable, instead of producing one large unexplainable adjustment a year."
+      },
+      {
+        "type": "list",
+        "text": "Making the correct path the easy path. If recording a breakage takes six taps and ignoring it takes none, it will be ignored — and no amount of policy changes that."
+      },
+      {
+        "type": "heading",
+        "text": "Offline is not an edge case"
+      },
+      {
+        "type": "paragraph",
+        "text": "In many markets, connectivity at the counter is intermittent. A POS that stops selling when the line drops is not a POS; it is a website with a cash drawer. The counter must keep operating locally and reconcile when the connection returns — which also means the sync must handle conflicts properly rather than assuming the last write wins."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is worth testing before purchase, not after. Ask to see a sale completed with the network disconnected, and then ask to see what happens to the stock figure when it comes back."
+      }
+    ],
+    "takeaways": [
+      "Most POS systems report revenue accurately and margin badly, because cost of goods is not kept current.",
+      "Attach cost of goods at the point of sale so every transaction carries its own margin.",
+      "Compare branches against their own history, not against each other — absolute comparisons mostly describe catchment.",
+      "Slow-moving stock is invisible in sales reporting by construction, and it is where working capital sits.",
+      "Stock accuracy underpins everything: cycle count continuously and make the correct path the easy one.",
+      "Test offline selling and reconciliation before buying, not after."
+    ],
+    "related": [
+      "2M POS",
+      "2M ERP",
+      "Custom Software Development"
+    ],
+    "continueReading": [
+      "Choosing between a platform and a custom build",
+      "ERP implementations fail at cutover, not at selection"
+    ]
+  },
+  {
+    "title": "Choosing between a platform and a custom build",
+    "slug": "platform-or-custom-build",
+    "route": "/insights/platform-or-custom-build",
+    "topic": "Strategy",
+    "draftDate": "18 August 2026",
+    "seoTitle": "Platform or Custom Build: How to Decide | 2M Designers",
+    "description": "A practical test for deciding what to buy and what to build, based on which parts of your process are genuinely distinctive.",
+    "keywords": [
+      "custom software development company",
+      "business automation software",
+      "enterprise software development",
+      "ERP software Pakistan"
+    ],
+    "summary": "The question is usually framed as build versus buy, which is the wrong axis. The useful question is which parts of your process are genuinely distinctive, because those are the only parts worth building.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Every business considering new software eventually arrives at the same fork. A product exists that covers most of what is needed. It does not cover all of it. Do you adopt the product and change how you work, or build something that fits how you already work?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Framed that way the question has no good answer, because both options are being compared as wholes. The decision becomes tractable when you separate the system into parts and ask the question about each one."
+      },
+      {
+        "type": "heading",
+        "text": "The test"
+      },
+      {
+        "type": "paragraph",
+        "text": "For any given process, ask: if a competitor did this exactly the way we do, would we lose anything?"
+      },
+      {
+        "type": "paragraph",
+        "text": "For most processes the honest answer is no. Your payroll calculation is not a competitive advantage. Nor is your general ledger, your stock valuation method, your leave approval flow or the way you record a purchase order. These are solved problems where the accumulated design of a mature product is almost certainly better than what you would specify from scratch — and where insisting on your own version means paying to rebuild something standard and then paying again to maintain it."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a small number of processes the answer is yes, and those are usually the ones currently held together by spreadsheets, WhatsApp groups and one person who understands the whole thing. The way you price a complex freight job. The rules deciding which vehicle takes which load. The approval chain that keeps your particular risk under control. That is where your margin comes from, and it is worth building properly."
+      },
+      {
+        "type": "paragraph",
+        "text": "The pattern that usually wins"
+      },
+      {
+        "type": "paragraph",
+        "text": "Buy or configure the standard parts. Build the distinctive parts. Integrate them properly. Most businesses that report a good outcome from a software project did some version of this, and most that report a bad one committed wholly to one side of the fork."
+      },
+      {
+        "type": "heading",
+        "text": "When a product is the right answer"
+      },
+      {
+        "type": "list",
+        "text": "The process is standard, and your version of it is different mostly through history rather than design."
+      },
+      {
+        "type": "list",
+        "text": "The domain has regulatory complexity you would rather not own — tax computation, statutory payroll, compliance reporting."
+      },
+      {
+        "type": "list",
+        "text": "You need it working in weeks rather than months."
+      },
+      {
+        "type": "list",
+        "text": "The team that will maintain it is small, and a well-supported product is a lower ongoing burden than bespoke code."
+      },
+      {
+        "type": "heading",
+        "text": "When building is the right answer"
+      },
+      {
+        "type": "list",
+        "text": "The process is genuinely yours, and adopting a standard version would remove something that makes you money."
+      },
+      {
+        "type": "list",
+        "text": "The integration between systems is the actual product — the value is in the connection, not in either endpoint."
+      },
+      {
+        "type": "list",
+        "text": "You have tried products and each requires enough configuration and workaround that you are effectively building anyway, at higher cost and with less control."
+      },
+      {
+        "type": "list",
+        "text": "The requirement is narrow and specific. Small bespoke tools are often much cheaper than the licence for a large product used at ten per cent of its capability."
+      },
+      {
+        "type": "heading",
+        "text": "Two questions worth asking before either"
+      },
+      {
+        "type": "paragraph",
+        "text": "Who maintains this in three years?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Bespoke software is an asset with an ongoing cost. If the answer is one developer who also does everything else, that is a risk to weigh — not a reason not to build, but a reason to insist on documentation, tests and a handover as part of the delivery rather than a hope for later."
+      },
+      {
+        "type": "paragraph",
+        "text": "What happens when we outgrow this?"
+      },
+      {
+        "type": "paragraph",
+        "text": "A product has a ceiling defined by its vendor. Bespoke has a ceiling defined by its architecture. Both exist. The question is whether you will reach yours in three years or thirty, and whether the exit — migrating off, extending, replacing a component — has been thought about at all."
+      },
+      {
+        "type": "heading",
+        "text": "The most common mistake"
+      },
+      {
+        "type": "paragraph",
+        "text": "Building the standard parts because they were easy to specify, and buying the distinctive part because no product quite fit and configuring one felt like progress."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is a natural outcome of scoping software by writing down requirements: the standard processes are easy to describe, so they get described first and in most detail, while the distinctive process is the hardest to articulate and gets deferred. The result is a system that reproduces commodity functionality at custom cost and compromises the one workflow that actually differentiates the business."
+      },
+      {
+        "type": "paragraph",
+        "text": "Scope by asking what is distinctive first. The rest follows more easily than you expect."
+      }
+    ],
+    "takeaways": [
+      "Do not decide build-versus-buy for the whole system; decide it per process.",
+      "The test: if a competitor did this exactly our way, would we lose anything? Usually no — those parts should be bought.",
+      "Buy or configure standard processes, build the distinctive ones, and invest in the integration between them.",
+      "Ask who maintains bespoke code in three years, and insist on documentation and handover as part of delivery.",
+      "The common failure is building commodity functionality and compromising the one workflow that differentiates you."
+    ],
+    "related": [
+      "Custom Software Development",
+      "2M ERP",
+      "API Development & Integrations"
+    ],
+    "continueReading": [
+      "ERP implementations fail at cutover, not at selection",
+      "What a POS should tell head office that it usually does not"
+    ]
+  },
+  {
+    "title": "Arabic support is a tender requirement, not a nice-to-have",
+    "slug": "arabic-is-a-tender-requirement",
+    "route": "/insights/arabic-is-a-tender-requirement",
+    "topic": "Localization",
+    "draftDate": "13 August 2026",
+    "seoTitle": "Arabic Support in Fleet Software: What It Takes | 2M Designers",
+    "description": "Arabic support goes beyond translating the interface. Layout mirroring, numeral handling and document generation are where systems actually fail.",
+    "keywords": [
+      "fleet management software GCC",
+      "Arabic RTL software",
+      "telematics solution",
+      "fleet management software Pakistan"
+    ],
+    "summary": "Across the GCC, Arabic capability decides whether a product can be submitted at all. It is also the software requirement most consistently underestimated, because the visible part — the words — is the easy part.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "For fleet and logistics software sold into the Gulf, Arabic support is frequently a qualification criterion rather than a differentiator. A product without it is not competing on price and features; it is not in the evaluation."
+      },
+      {
+        "type": "paragraph",
+        "text": "That makes Arabic a commercial decision with a technical bill attached, and the bill is routinely misjudged. Ask a development team to estimate Arabic support and you will usually get a figure based on translating the interface text. Translation is only one part of the work."
+      },
+      {
+        "type": "heading",
+        "text": "The distinction that matters most"
+      },
+      {
+        "type": "paragraph",
+        "text": "Operational software does two things with the same string. It shows it to a person, and it makes decisions with it."
+      },
+      {
+        "type": "paragraph",
+        "text": "A vehicle status of \"Moving\" determines which colour a row is shaded, which filter it matches, which icon is drawn, and which alert rule applies — while also appearing on screen. Translate that value where it sits and every one of those decisions breaks. The vehicle is still moving; the software no longer recognises it as such."
+      },
+      {
+        "type": "paragraph",
+        "text": "The failure is severe precisely because it is invisible. The interface looks correct in Arabic. The filters return nothing, or the wrong thing, and the reason is not apparent from looking at the screen."
+      },
+      {
+        "type": "paragraph",
+        "text": "The rule to build against"
+      },
+      {
+        "type": "paragraph",
+        "text": "Translate at the point of display. Never at the point of comparison, and never in data sent to a server. The value on the wire stays exactly as the backend issued it; a mapping layer converts it to Arabic only at the moment it is drawn."
+      },
+      {
+        "type": "paragraph",
+        "text": "This is worth stating as an explicit engineering rule rather than a convention, because it can be violated in a single line by a developer who does not know the rule exists — and the resulting defect can invert the behaviour of a control while leaving the interface looking entirely correct."
+      },
+      {
+        "type": "heading",
+        "text": "Numerals, and why reports come back empty"
+      },
+      {
+        "type": "paragraph",
+        "text": "Arabic locale settings in common date libraries rewrite digits into Arabic-Indic form. The date 2026-08-21 becomes ٢٠٢٦-٠٨-٢١."
+      },
+      {
+        "type": "paragraph",
+        "text": "Shown to a user, that is correct behaviour. Sent to an API as a query parameter, it is not a date the server can parse. And because such requests typically return an empty result rather than raising an error, the defect reaches production and presents as reports that inexplicably return no data — for Arabic users only."
+      },
+      {
+        "type": "paragraph",
+        "text": "The structural fix is to separate machine-facing from human-facing date handling at the architecture level: one function that always formats for the wire, another that formats for the reader, and a check that fails the build when a raw call slips in. Doing this retrospectively across an existing codebase typically means auditing several hundred call sites."
+      },
+      {
+        "type": "heading",
+        "text": "Layout that mirrors by rule"
+      },
+      {
+        "type": "paragraph",
+        "text": "Right-to-left is not a stylesheet applied over an English layout. Every rule specifying a left or right position — margins, padding, text alignment, borders, absolute positioning — must become direction-relative, so the interface mirrors as a matter of course rather than screen by screen."
+      },
+      {
+        "type": "paragraph",
+        "text": "Two things must deliberately not mirror:"
+      },
+      {
+        "type": "list",
+        "text": "Map canvases and chart axes. Time-series plots are read left to right in Arabic contexts as elsewhere; mirroring them produces an interface that is technically right-to-left and practically unusable."
+      },
+      {
+        "type": "list",
+        "text": "Mixed Latin content inside Arabic text. Plate numbers, IMEI identifiers, coordinates and measurements need directional isolation, or the bidirectional algorithm reorders them — a speed of 154,320 km rendering as km 154,320, which can make an identifier or measurement ambiguous."
+      },
+      {
+        "type": "heading",
+        "text": "Documents are their own project"
+      },
+      {
+        "type": "paragraph",
+        "text": "Arabic script is cursive: letters change shape depending on their position within a word. Some PDF generation libraries require explicit shaping and font configuration. Arabic text passed to one without an embedded, correctly-configured font renders as disconnected, reversed characters — legible to nobody."
+      },
+      {
+        "type": "paragraph",
+        "text": "Each export path needs separate work and separate visual verification: PDF needs the embedded font and column-order reversal; spreadsheets need right-to-left sheet orientation; CSV needs a byte-order mark or Arabic opens as mojibake in Excel; print needs its own direction handling because the print document does not always inherit the page's."
+      },
+      {
+        "type": "paragraph",
+        "text": "It is also worth knowing that several widely-circulated technical fixes for Arabic in PDF actively make output worse in current library versions. This is an area to establish by testing against the specific versions in use, not by following the top search result."
+      },
+      {
+        "type": "heading",
+        "text": "Language is also a plural problem"
+      },
+      {
+        "type": "paragraph",
+        "text": "Arabic has six plural categories — zero, one, two, few, many and other — where English has two. Any interface string containing a count needs proper plural handling rather than string concatenation, or it reads as machine output to a native speaker. \"3 مركبات\" and \"11 مركبة\" take different forms, and getting this wrong is one of the fastest ways to signal that a product was translated rather than localised."
+      },
+      {
+        "type": "heading",
+        "text": "Budget the review, not just the translation"
+      },
+      {
+        "type": "paragraph",
+        "text": "The component most often cut is native linguistic review, because machine translation produces Arabic that looks plausible to a non-speaker. It is also the component your users judge the product on. Fleet and telematics vocabulary is specialised, terminology should be agreed as a glossary with the client rather than chosen by a translator in isolation, and consistency across a thousand strings does not happen by accident."
+      },
+      {
+        "type": "paragraph",
+        "text": "The engineering makes the product capable of Arabic. The review makes it credible in Arabic. Both are required, and only one of them is optional in most quotes you will receive."
+      }
+    ],
+    "takeaways": [
+      "In GCC public-sector procurement, Arabic is often a qualification criterion — no Arabic, no submission.",
+      "Translate at display, never at comparison or transport; backend values must stay untouched on the wire.",
+      "Arabic locales rewrite numerals, which breaks API calls silently and surfaces as empty reports for Arabic users only.",
+      "Maps, charts and mixed Latin content must deliberately not mirror.",
+      "Each export format — PDF, Excel, CSV, print — needs separate work and visual verification.",
+      "Budget native linguistic review; it is what separates a translated product from a credible one."
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Custom Software Development",
+      "Mobile App Development"
+    ],
+    "continueReading": [
+      "Why your GPS data and your accounting data disagree",
+      "Choosing between a platform and a custom build"
+    ]
+  },
+  {
+    "title": "Why your GPS data and your accounting data disagree",
+    "slug": "gps-and-accounting-data-disagree",
+    "route": "/insights/gps-and-accounting-data-disagree",
+    "topic": "Integration",
+    "draftDate": "6 August 2026",
+    "seoTitle": "Why GPS and Accounting Data Disagree | 2M Designers",
+    "description": "Two systems, one delivery, two answers. The causes are definitions, timezone handling and failed syncs — and each has a specific fix.",
+    "keywords": [
+      "API integration services",
+      "ERP integration",
+      "REST API development",
+      "logistics management software"
+    ],
+    "summary": "Your tracking platform says the vehicle completed 214 deliveries last month. Your invoicing says 209. Both systems are working correctly. The disagreement is real, it is explainable, and it is almost never a bug in either one.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "This conversation happens in every business running more than one operational system. Finance produces a figure, operations produces a different figure, and the meeting spends forty minutes establishing which is wrong before anyone asks the better question: what exactly is each system counting?"
+      },
+      {
+        "type": "paragraph",
+        "text": "In our experience the answer is usually that they are counting different things, correctly."
+      },
+      {
+        "type": "heading",
+        "text": "Cause one: the boundary is defined differently"
+      },
+      {
+        "type": "paragraph",
+        "text": "What is a completed delivery?"
+      },
+      {
+        "type": "list",
+        "text": "To the tracking platform, it might be: the vehicle entered the customer geofence and remained for more than three minutes."
+      },
+      {
+        "type": "list",
+        "text": "To the driver app, it might be: the driver pressed 'Delivered' and captured a signature."
+      },
+      {
+        "type": "list",
+        "text": "To the invoicing system, it might be: a proof-of-delivery document was received and matched to an order line."
+      },
+      {
+        "type": "paragraph",
+        "text": "A vehicle that arrived, waited, and left without unloading because the customer's dock was full satisfies the first definition and neither of the others. That is not a data error. It is three teams answering three different questions with the same word."
+      },
+      {
+        "type": "paragraph",
+        "text": "The fix is not technical. Agree one definition per metric, write it down, and make each system's report state which definition it uses. Most of these disputes evaporate the moment the definitions are on the same page."
+      },
+      {
+        "type": "heading",
+        "text": "Cause two: timezone and day-boundary handling"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tracking platforms usually store timestamps in UTC because devices report from wherever they are. Accounting systems usually work in local business time, because that is what a trading day means. A delivery completed at 02:30 local time can legitimately land in different days in the two systems."
+      },
+      {
+        "type": "paragraph",
+        "text": "For a month-end report this affects only the boundary days, which is exactly why it is hard to spot: the discrepancy is small, it moves, and it never reproduces when you go looking for it."
+      },
+      {
+        "type": "paragraph",
+        "text": "A related trap worth knowing"
+      },
+      {
+        "type": "paragraph",
+        "text": "Locale settings can rewrite numerals as well as formats. An application running in Arabic locale will happily render a date as ٢٠٢٦-٠٨-٢١ — correct for a reader, unparseable for a server expecting an ISO date. If that string reaches an API, the request fails silently and returns nothing rather than raising an error, which surfaces as reports that mysteriously come back empty for some users and not others."
+      },
+      {
+        "type": "heading",
+        "text": "Cause three: a sync failed and nobody was told"
+      },
+      {
+        "type": "paragraph",
+        "text": "This is the one that actually costs money."
+      },
+      {
+        "type": "paragraph",
+        "text": "Integrations are usually built for the happy path. System A posts to system B, system B accepts, everyone is satisfied. Then system B is down for maintenance for eleven minutes, forty-three records fail to post, and the integration — which has no retry, no queue and no alerting — moves on to the next batch."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nothing appears broken. Both systems are running. The discrepancy is discovered weeks later during a reconciliation, by which time nobody can reconstruct which records were lost or reproduce the conditions."
+      },
+      {
+        "type": "paragraph",
+        "text": "What a resilient integration actually needs"
+      },
+      {
+        "type": "list",
+        "text": "Retries with backoff. Transient failures are the common case, and a retry a few seconds later usually succeeds."
+      },
+      {
+        "type": "list",
+        "text": "Idempotency. If a retry does go through twice, the receiving system must recognise it as the same record rather than creating a duplicate — which is how you turn a lost-record problem into a double-billing problem."
+      },
+      {
+        "type": "list",
+        "text": "A dead-letter queue. Records that cannot be processed after retries go somewhere visible, not into a log file nobody reads."
+      },
+      {
+        "type": "list",
+        "text": "Alerting on the queue, not on the error. Somebody should be told that forty-three records are stuck, at the time they get stuck."
+      },
+      {
+        "type": "list",
+        "text": "Reconciliation as a feature. A scheduled job that compares record counts between systems and reports drift is unglamorous and catches everything the other four miss."
+      },
+      {
+        "type": "paragraph",
+        "text": "None of this is difficult. It is simply the part of integration work that gets cut when a project is scoped as 'connect these two systems' rather than 'keep these two systems in agreement'."
+      },
+      {
+        "type": "heading",
+        "text": "How to run the investigation"
+      },
+      {
+        "type": "paragraph",
+        "text": "When the numbers next disagree, resist the instinct to find the wrong one. Instead:"
+      },
+      {
+        "type": "list",
+        "text": "Get both systems to output the underlying records, not the totals. Totals hide everything."
+      },
+      {
+        "type": "list",
+        "text": "Compare the sets rather than the counts. You want the specific records present in one and absent in the other."
+      },
+      {
+        "type": "list",
+        "text": "Look at those records' timestamps first. Clustering at day boundaries points at timezone handling; clustering in a narrow window points at a failed sync."
+      },
+      {
+        "type": "list",
+        "text": "If they are scattered with no pattern, you have a definitional difference. Go and read how each system decides the record is complete."
+      },
+      {
+        "type": "paragraph",
+        "text": "That sequence resolves most of these in an afternoon, and it usually ends with a definition being written down rather than code being changed."
+      }
+    ],
+    "takeaways": [
+      "Two systems disagreeing is usually two correct answers to two different questions.",
+      "Agree one written definition per metric and make each report state which it uses.",
+      "Timezone differences show up only at day boundaries, which is why they are hard to reproduce.",
+      "Failed syncs are the expensive cause: build retries, idempotency, a dead-letter queue and alerting, or you will find out at reconciliation.",
+      "Investigate by comparing record sets, not totals — totals hide the pattern that identifies the cause."
+    ],
+    "related": [
+      "API Development & Integrations",
+      "2M Fleet Telematics",
+      "2M ERP"
+    ],
+    "continueReading": [
+      "ERP implementations fail at cutover, not at selection",
+      "Arabic support is a tender requirement, not a nice-to-have"
+    ]
+  },
+  {
+    "title": "ERP implementations fail at cutover, not at selection",
+    "slug": "erp-fails-at-cutover",
+    "route": "/insights/erp-fails-at-cutover",
+    "topic": "ERP",
+    "draftDate": "28 July 2026",
+    "seoTitle": "Why ERP Implementations Fail at Cutover | 2M Designers",
+    "description": "Most ERP failures get blamed on the software. The cause is usually the switchover: data migration, parallel running, and going live everywhere at once.",
+    "keywords": [
+      "ERP software Pakistan",
+      "ERP implementation",
+      "ERP system",
+      "business management software"
+    ],
+    "summary": "Businesses spend months comparing ERP products and days planning the switchover. The ratio is backwards, and it is the reason so many implementations are remembered as a bad software decision when they were really a bad sequencing decision.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "The selection phase of an ERP project is comfortable. There are demos to watch, feature matrices to build, references to call. It feels like the decisive work, and vendors encourage that feeling because it is the phase where they compete."
+      },
+      {
+        "type": "paragraph",
+        "text": "Then the system is chosen, and the project meets the part nobody rehearsed: moving a live business from what it runs today onto something else, without stopping trading. That is where implementations come apart."
+      },
+      {
+        "type": "heading",
+        "text": "Three failure modes, none of them the software"
+      },
+      {
+        "type": "paragraph",
+        "text": "1. Migrating data that was never correct"
+      },
+      {
+        "type": "paragraph",
+        "text": "Every business has stock records that disagree with the warehouse, customers who exist twice under slightly different names, and a supplier ledger with entries nobody can explain. The old system tolerated this because people worked around it — the storeman knew the real figure, the accounts clerk knew which duplicate was live."
+      },
+      {
+        "type": "paragraph",
+        "text": "Migration removes the workaround and keeps the error. Worse, it makes the error authoritative: it is now in the new system, which is supposed to be the single source of truth, and the people who knew the correction have no place to put it."
+      },
+      {
+        "type": "paragraph",
+        "text": "Data cleansing is unglamorous and always underestimated. It is also the single activity most likely to determine whether the first month after go-live is calm or chaotic. Budget for it explicitly, do it before migration rather than during, and accept that it will surface disagreements between departments that the old system was quietly absorbing."
+      },
+      {
+        "type": "paragraph",
+        "text": "2. Going live everywhere at once"
+      },
+      {
+        "type": "paragraph",
+        "text": "Big-bang cutover — finance, inventory, sales, purchasing and HR all switching on the same Monday — is attractive because it appears to minimise the awkward period of running two systems. It maximises risk instead."
+      },
+      {
+        "type": "paragraph",
+        "text": "When five modules go live together and something breaks, you are diagnosing across five modules with every department blocked simultaneously. Sequenced implementation gives you a smaller surface, a team that has learned the system before the next module lands, and an early win that keeps the project funded."
+      },
+      {
+        "type": "paragraph",
+        "text": "A sequence that usually works"
+      },
+      {
+        "type": "paragraph",
+        "text": "Start with inventory or finance — whichever is currently causing the most pain and has the clearest success measure. Prove it. Add purchasing and sales once stock is trusted. Leave HR and payroll until last: they are the least urgent and the most sensitive to getting wrong."
+      },
+      {
+        "type": "paragraph",
+        "text": "3. Parallel running that nobody actually does"
+      },
+      {
+        "type": "paragraph",
+        "text": "Parallel running — operating old and new together and comparing outputs — is the standard safety net, and it is standard because it works. It also doubles the data entry for the team doing it, during the period when they are least familiar with the new system."
+      },
+      {
+        "type": "paragraph",
+        "text": "So it gets abandoned quietly in week two. Nobody announces this. The comparison stops being done, discrepancies stop being caught, and the first genuine divergence between the systems is discovered at month-end when the accounts do not close."
+      },
+      {
+        "type": "paragraph",
+        "text": "If you plan parallel running, resource it: name who does the comparison, agree what tolerance counts as a discrepancy, and set the date it ends. An unresourced parallel period is worse than none, because it provides the reassurance without the checking."
+      },
+      {
+        "type": "heading",
+        "text": "The question that predicts the outcome"
+      },
+      {
+        "type": "paragraph",
+        "text": "When evaluating an implementation partner, the selection conversation tells you little — every vendor demos well. The useful question is about the switchover:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Walk me through the last cutover you did. What went wrong, and what did you change afterwards?"
+      },
+      {
+        "type": "paragraph",
+        "text": "A partner who has done several will answer immediately and specifically, because cutover problems are memorable. One who describes a flawless history either has not done many or is not being straight with you. Neither answer is what you want to hear after signing."
+      },
+      {
+        "type": "heading",
+        "text": "What good looks like"
+      },
+      {
+        "type": "list",
+        "text": "Data cleansing scoped and priced as its own phase, before migration begins."
+      },
+      {
+        "type": "list",
+        "text": "A documented sequence of modules with a defined success measure for each, not a single go-live date."
+      },
+      {
+        "type": "list",
+        "text": "A named person accountable for parallel comparison, with an agreed end date."
+      },
+      {
+        "type": "list",
+        "text": "A rollback plan that has been tested, not just written."
+      },
+      {
+        "type": "list",
+        "text": "Training delivered to the people who will use the system daily, not only to the managers who selected it."
+      },
+      {
+        "type": "paragraph",
+        "text": "None of this is about which ERP you chose. It is about whether the switchover was treated as the risky part of the project, which it always is."
+      }
+    ],
+    "takeaways": [
+      "ERP projects are usually judged on selection and decided at cutover.",
+      "Migrating uncleansed data makes existing errors authoritative and removes the human workarounds that were hiding them.",
+      "Sequenced go-live beats big-bang: smaller failure surface, a team that has learned, and an early win.",
+      "Unresourced parallel running is worse than none — it provides reassurance without checking.",
+      "Ask a prospective partner what went wrong on their last cutover. A flawless history is not a good sign."
+    ],
+    "related": [
+      "2M ERP",
+      "Custom Software Development",
+      "2M POS"
+    ],
+    "continueReading": [
+      "Choosing between a platform and a custom build",
+      "Why your GPS data and your accounting data disagree"
+    ]
+  },
+  {
+    "title": "What fleet operators lose to unmeasured driver behaviour",
+    "slug": "cost-of-unmeasured-driver-behaviour",
+    "route": "/insights/cost-of-unmeasured-driver-behaviour",
+    "topic": "Fleet telematics",
+    "draftDate": "14 July 2026",
+    "seoTitle": "The Cost of Unmeasured Driver Behaviour | 2M Designers",
+    "description": "Idling, harsh braking and overspeeding each carry a cost you can calculate from your own fuel bill. How driver behaviour monitoring pays for itself.",
+    "keywords": [
+      "driver behaviour monitoring",
+      "fleet management software Pakistan",
+      "fuel monitoring",
+      "GPS tracking software"
+    ],
+    "summary": "Every fleet knows its fuel bill. Very few know which drivers produce it. The gap between those two facts is usually the cheapest saving available to an operator, and it does not require buying a single new vehicle.",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Ask a fleet manager what their vehicles cost to run and you will get an accurate answer, usually to the rupee or the dirham. Ask which drivers are responsible for the top and bottom of that range and the answer becomes an impression: this one is careful, that one is heavy on the brakes, this one we have had complaints about."
+      },
+      {
+        "type": "paragraph",
+        "text": "Impressions are not evidence, and they cannot be acted on. You cannot put an impression in a performance review, use it to set an insurance premium, or defend it when the driver disagrees. So the conversation does not happen, the behaviour continues, and the cost stays in the fuel bill where nobody attributes it to anyone."
+      },
+      {
+        "type": "heading",
+        "text": "Four behaviours, all measurable"
+      },
+      {
+        "type": "paragraph",
+        "text": "Telematics hardware already reports what is needed. The question is whether anything computes with it."
+      },
+      {
+        "type": "list",
+        "text": "Idling — engine running, vehicle stationary, ignition on. Fuel burned to move nothing."
+      },
+      {
+        "type": "list",
+        "text": "Harsh acceleration — rapid throttle application, measured by accelerometer or by rate of speed change between position reports."
+      },
+      {
+        "type": "list",
+        "text": "Harsh braking — the same in reverse, and an event that should be reviewed in its driving context."
+      },
+      {
+        "type": "list",
+        "text": "Overspeeding — not the device's factory threshold, but speed against the limit configured for that vehicle class and route."
+      },
+      {
+        "type": "paragraph",
+        "text": "Each is a discrete, timestamped event attributable to one driver on one trip. Once they are counted per driver rather than per vehicle, a fleet stops having a fuel problem and starts having a small number of specific, addressable conversations."
+      },
+      {
+        "type": "heading",
+        "text": "The arithmetic, with your numbers"
+      },
+      {
+        "type": "paragraph",
+        "text": "Idling is the easiest to quantify because the assumptions are few and you can check every one against your own records. The figures below are illustrative — substitute yours."
+      },
+      {
+        "type": "paragraph",
+        "text": "Idling cost, worked example"
+      },
+      {
+        "type": "table",
+        "rows": [
+          [
+            "Item",
+            "Value"
+          ],
+          [
+            "Fleet size",
+            "100 vehicles"
+          ],
+          [
+            "Idling per vehicle per day",
+            "45 minutes"
+          ],
+          [
+            "Fuel burned while idling",
+            "2 litres per hour"
+          ],
+          [
+            "Operating days per year",
+            "300"
+          ],
+          [
+            "Litres burned idling per year",
+            "100 × 0.75 h × 2 L × 300 = 45,000 L"
+          ]
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Multiply the last line by your own fuel price. The point is not the number — it is that the number exists and is currently unattributed. A one-third reduction would save 15,000 litres in this example; it is an illustration, not a forecast or guaranteed result."
+      },
+      {
+        "type": "paragraph",
+        "text": "Run the same calculation with your real idling average. Most operators who measure it for the first time find the figure higher than they assumed, because idling is invisible: a stationary vehicle with the engine running looks identical to a parked one from the office."
+      },
+      {
+        "type": "heading",
+        "text": "Why scoring changes behaviour and reporting does not"
+      },
+      {
+        "type": "paragraph",
+        "text": "A monthly report to management describes the past. It reaches the driver, if at all, weeks after the trips it describes, as a summary they cannot verify and did not see coming."
+      },
+      {
+        "type": "paragraph",
+        "text": "A score the driver can see on their own phone works differently. It is current, it is theirs, and it is comparable. The mechanism is not sophisticated — people modify behaviour that is visible and attributed far more readily than behaviour that is aggregated into a departmental total."
+      },
+      {
+        "type": "paragraph",
+        "text": "The design decision that matters"
+      },
+      {
+        "type": "paragraph",
+        "text": "Show drivers their own score before you show managers the league table. A scoring system introduced as surveillance gets resisted and gamed. The same system introduced as feedback — here is your figure, here is the fleet average, here is what moved it — gets engaged with."
+      },
+      {
+        "type": "heading",
+        "text": "What honest measurement requires"
+      },
+      {
+        "type": "list",
+        "text": "Thresholds set per vehicle class. A loaded truck and a light van do not brake alike, and scoring them against one threshold produces noise that drivers correctly dismiss."
+      },
+      {
+        "type": "list",
+        "text": "Events tied to a driver, not a vehicle. Without driver identification — an app login, a key fob, an assignment record — every event lands on whoever is usually in that vehicle, which is unfair and therefore unusable."
+      },
+      {
+        "type": "list",
+        "text": "A dispute route. Drivers will contest events, and sometimes they will be right: a genuine emergency stop scores identically to careless braking. A system with no way to annotate an event loses the drivers' trust the first time it is wrong."
+      },
+      {
+        "type": "list",
+        "text": "Consistency over time. A score that changes meaning when you adjust the thresholds is not a score. Fix the model, then leave it alone long enough for trends to mean something."
+      },
+      {
+        "type": "heading",
+        "text": "The second-order effects"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fuel is one measurable cost. Maintenance and incident costs should be evaluated separately using your own records."
+      },
+      {
+        "type": "paragraph",
+        "text": "Harsh braking and acceleration wear brakes, tyres, clutches and suspension at a rate that shows up in the maintenance budget rather than the fuel budget, which is why it is usually attributed to vehicle age instead of driving style. Collision frequency follows the same events closely enough that insurers in several markets will discuss premiums with an operator who can produce driver-level data — and being able to produce it after an incident, rather than arguing about it, has its own value."
+      },
+      {
+        "type": "paragraph",
+        "text": "None of this needs new vehicles, new depots or new headcount. It needs the data the devices already generate to be attributed to the people who generate it."
+      }
+    ],
+    "takeaways": [
+      "Idling, harsh braking, harsh acceleration and overspeeding are already reported by your hardware — the gap is attribution, not measurement.",
+      "Calculate your own idling cost before buying anything; the number is usually higher than assumed because idling is invisible from the office.",
+      "Driver-visible scoring changes behaviour; monthly management reports describe it.",
+      "Set thresholds per vehicle class and give drivers a way to dispute events, or the scores will be dismissed as noise.",
+      "Fuel justifies the project; maintenance and collision costs are usually the larger recovery."
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Driver Management System"
+    ],
+    "continueReading": [
+      "Why your GPS data and your accounting data disagree",
+      "Choosing between a platform and a custom build"
+    ]
+  }
+]

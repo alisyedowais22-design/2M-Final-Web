@@ -1,0 +1,6 @@
+import Container from '@/components/ui/Container';
+import Link from 'next/link';
+import Image from 'next/image';
+import {industries} from '@/lib/content';
+import {industryImages} from '@/lib/images';
+export default function IndustriesBand(){return <section className="bg-ink py-24 text-ivory lg:py-32"><Container><p className="label-eyebrow">Industries</p><h2 className="mt-4 font-display text-3xl font-medium">Built around how these sectors actually operate</h2><p className="mt-5 max-w-2xl text-base leading-relaxed text-mist">We work most where operations are physical, distributed and hard to see — vehicles, warehouses, branches and field teams.</p><div className="mt-12 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{industries.map(x=><Link key={x.slug} href={'/industries#'+x.slug} className="focus-ring group relative flex min-h-[240px] flex-col justify-end overflow-hidden rounded-xl"><Image src={industryImages[x.slug]} alt="" fill sizes="(min-width:1024px) 33vw,(min-width:640px) 50vw,100vw" className="object-cover transition-transform duration-700 group-hover:scale-110"/><div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/60 to-transparent"/><h3 className="relative p-6 text-lg font-medium">{x.name}</h3></Link>)}</div></Container></section>;}

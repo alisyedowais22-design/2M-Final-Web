@@ -1,0 +1,22 @@
+{
+  "title": "Cookie Policy",
+  "intro": "This page describes the tracking behaviour of this website build.",
+  "sections": [
+    {
+      "title": "Optional cookies",
+      "body": "No analytics, advertising pixels or optional tracking cookies are enabled in this version. We therefore do not display a consent banner that asks you to approve tracking we do not use."
+    },
+    {
+      "title": "Essential operation",
+      "body": "Your browser and hosting infrastructure may use cache storage or essential security mechanisms to deliver pages. The contact form sends the details you enter only when submitted and delivery is enabled."
+    },
+    {
+      "title": "External content",
+      "body": "Unsplash image requests and visits to LinkedIn, Facebook, Instagram or WhatsApp are governed by those services. External links do not load their tracking scripts into this website."
+    },
+    {
+      "title": "Future changes",
+      "body": "If analytics or advertising tools are added later, the operator must update this notice and configure consent where required before enabling non-essential tracking."
+    }
+  ]
+}

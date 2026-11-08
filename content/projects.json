@@ -1,0 +1,164 @@
+[
+  {
+    "title": "GO Track IoT ERP System",
+    "shortTitle": "GO Track IoT ERP",
+    "slug": "go-track-iot-erp",
+    "route": "/projects/go-track-iot-erp",
+    "client": "GO Track IoT",
+    "category": "Enterprise resource planning",
+    "seoTitle": "GO Track IoT ERP System Project | 2M Designers",
+    "description": "A client-specific web ERP dashboard for GO Track IoT, connecting projects, finance, sales, inventory, CRM, roles and day-to-day activity.",
+    "headline": "One operational view across projects, finance, sales and inventory",
+    "summary": "A client-specific ERP workspace designed to give GO Track IoT a clear view of business performance while keeping its operational modules in one secure web system.",
+    "overview": [
+      "The dashboard brings project activity, orders, customers and commercial targets into one executive overview. Financial, sales, inventory and CRM views sit inside the same interface, reducing the need to move between disconnected tools.",
+      "The wider navigation shown in the delivered system covers company structure, users and roles, accounts, purchasing, inventory, operations and customer service. Light and dark interfaces support different working preferences without changing the information architecture."
+    ],
+    "facts": [
+      { "label": "Client", "value": "GO Track IoT" },
+      { "label": "System", "value": "Web-based ERP" },
+      { "label": "Coverage", "value": "Finance to operations" }
+    ],
+    "highlights": [
+      {
+        "title": "Executive dashboard",
+        "copy": "Project, order, customer and revenue-target indicators are presented together for a fast operational read."
+      },
+      {
+        "title": "Finance and sales visibility",
+        "copy": "Revenue, profit, cash flow, total sales and monthly-target progress are available from the main workspace."
+      },
+      {
+        "title": "Inventory and customer signals",
+        "copy": "Low-stock, turnover, satisfaction and lead indicators help teams spot items that need attention."
+      },
+      {
+        "title": "Operational activity stream",
+        "copy": "Sales, receipts, inventory orders, project completion and customer registration appear in one recent-activity view."
+      },
+      {
+        "title": "Structured access",
+        "copy": "Company, branch, department, designation, user and role controls support a structured multi-team setup."
+      },
+      {
+        "title": "Light and dark themes",
+        "copy": "The same dashboard is available in two visual modes for different environments and user preferences."
+      }
+    ],
+    "modules": [
+      "Company and branch management",
+      "Departments and designations",
+      "User and role management",
+      "Accounting and finance",
+      "Financial reports",
+      "Accounts management",
+      "Sales management and CRM",
+      "Purchase management",
+      "Inventory management",
+      "Operations management",
+      "Customer service",
+      "Vehicle records",
+      "Case log",
+      "Master data",
+      "Project and order indicators",
+      "Sales target tracking",
+      "Stock and turnover indicators",
+      "Recent operational activity"
+    ],
+    "screenshots": [
+      {
+        "src": "/images/projects/go-track-iot-erp-dashboard-dark.png",
+        "alt": "GO Track IoT ERP dark dashboard showing project, order, customer, revenue, financial and sales indicators",
+        "caption": "Executive ERP overview in dark mode"
+      },
+      {
+        "src": "/images/projects/go-track-iot-erp-dashboard-light.png",
+        "alt": "GO Track IoT ERP light dashboard showing stock, customer satisfaction, leads and recent activity",
+        "caption": "Operational indicators and recent activity in light mode"
+      }
+    ],
+    "related": ["2M ERP", "Custom Software Development", "API Development & Integrations"],
+    "closing": [
+      "Need an ERP shaped around your operation?",
+      "Show us the processes, teams and reports you need to connect. We will help define a practical system scope around them."
+    ]
+  },
+  {
+    "title": "SASPAK Cargo ERP System",
+    "shortTitle": "SASPAK Cargo ERP",
+    "slug": "saspak-cargo-erp",
+    "route": "/projects/saspak-cargo-erp",
+    "client": "SASPAK Cargo",
+    "category": "Cargo and logistics ERP",
+    "seoTitle": "SASPAK Cargo ERP System Project | 2M Designers",
+    "description": "A cargo ERP implementation for SASPAK Cargo with controlled account posting, GL voucher creation, document locking and multimodal workflow context.",
+    "headline": "Controlled financial posting built around cargo operations",
+    "summary": "A client-specific cargo ERP implementation that connects document posting with job, party and transport-mode context across sea, air and land operations.",
+    "overview": [
+      "The account-posting workspace is designed for sale invoices, purchase invoices, receipts and payments. Users can load unposted documents by type and date, review selected records and amounts, then post them through a controlled workflow.",
+      "Posting creates general-ledger voucher details and locks the source document, helping preserve the relationship between operational records and accounts. Job, party, amount, status and reference fields keep each document traceable from one screen."
+    ],
+    "facts": [
+      { "label": "Client", "value": "SASPAK Cargo" },
+      { "label": "System", "value": "Cargo ERP" },
+      { "label": "Modes", "value": "Sea · Air · Land" }
+    ],
+    "highlights": [
+      {
+        "title": "Controlled account posting",
+        "copy": "Sale invoices, purchase invoices, receipts and payments move through a clear load, select and post workflow."
+      },
+      {
+        "title": "GL voucher creation",
+        "copy": "Posting creates general-ledger voucher details and locks the source document to protect workflow integrity."
+      },
+      {
+        "title": "Document-level visibility",
+        "copy": "Document number, date, job, party, amount, status and reference number remain visible in the working table."
+      },
+      {
+        "title": "Selection summaries",
+        "copy": "Loaded records, selected records, selected PKR amount and the current mode are summarised before action."
+      },
+      {
+        "title": "Cargo operating context",
+        "copy": "Sea, air and land navigation keeps the ERP aligned with the modes used by the cargo business."
+      },
+      {
+        "title": "Connected master data",
+        "copy": "Company, customer, job order, contract, party and location setup support the posting workflow around it."
+      }
+    ],
+    "modules": [
+      "Sale invoice posting and unposting",
+      "Purchase invoice posting and unposting",
+      "Receipt and payment posting",
+      "General-ledger voucher generation",
+      "Source-document locking after posting",
+      "Document type and date filtering",
+      "Job, party and status filtering",
+      "Selected-document and PKR amount summaries",
+      "Accounts management",
+      "Bank letter management",
+      "Bank pay-order letter management",
+      "Company and customer management",
+      "Fund requests",
+      "General setup",
+      "Job order management",
+      "Contracts, parties and party locations",
+      "Sea, air and land workflow navigation"
+    ],
+    "screenshots": [
+      {
+        "src": "/images/projects/saspak-cargo-erp-account-posting.png",
+        "alt": "SASPAK Cargo ERP account posting screen with document filters, posting summaries and sea, air and land navigation",
+        "caption": "Account posting workflow for cargo documents"
+      }
+    ],
+    "related": ["2M ERP", "2M Ship Flow", "Custom Software Development"],
+    "closing": [
+      "Planning a cargo or logistics ERP?",
+      "Bring us the documents, approvals and operating steps your teams use today. We will map them into a focused implementation scope."
+    ]
+  }
+]

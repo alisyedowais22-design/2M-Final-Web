@@ -1,0 +1,67 @@
+[
+  {
+    "title": "2M Fleet Telematics",
+    "slug": "fleet-telematics",
+    "kind": "solution"
+  },
+  {
+    "title": "2M ERP",
+    "slug": "erp",
+    "kind": "solution"
+  },
+  {
+    "title": "2M Ship Flow",
+    "slug": "ship-flow",
+    "kind": "solution"
+  },
+  {
+    "title": "Driver Management System",
+    "slug": "driver-management",
+    "kind": "solution"
+  },
+  {
+    "title": "Task Management System",
+    "slug": "task-management",
+    "kind": "solution"
+  },
+  {
+    "title": "2M POS",
+    "slug": "pos",
+    "kind": "solution"
+  },
+  {
+    "title": "2M School Management System",
+    "slug": "school-management-system",
+    "kind": "solution"
+  },
+  {
+    "title": "Custom Software Development",
+    "slug": "custom-software",
+    "kind": "service"
+  },
+  {
+    "title": "Website Development",
+    "slug": "website-development",
+    "kind": "service"
+  },
+  {
+    "title": "Mobile App Development",
+    "slug": "mobile-app-development",
+    "kind": "service"
+  },
+  {
+    "title": "Social Media Marketing",
+    "slug": "social-media-marketing",
+    "kind": "service"
+  },
+  {
+    "title": "Cloud Hosting & Infrastructure",
+    "slug": "cloud-hosting",
+    "kind": "service"
+  },
+  {
+    "title": "API Development & Integrations",
+    "slug": "api-integrations",
+    "kind": "service"
+  }
+]

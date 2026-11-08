@@ -1,0 +1,57 @@
+{
+  "process": [
+    {
+      "step": "01",
+      "title": "Consultation",
+      "copy": "We start with your operation, not our product catalogue — what is manual, what is invisible, what is costing you."
+    },
+    {
+      "step": "02",
+      "title": "Requirement Analysis",
+      "copy": "Documented scope, integration map and success criteria, so the commercial conversation is about a defined thing."
+    },
+    {
+      "step": "03",
+      "title": "UI / UX Design",
+      "copy": "Screens designed around the people who will use them daily — dispatchers, drivers, accountants, managers."
+    },
+    {
+      "step": "04",
+      "title": "Development",
+      "copy": "Built in short increments against a working environment you can see, not a status report you have to trust."
+    },
+    {
+      "step": "05",
+      "title": "Testing",
+      "copy": "Functional, integration and load testing, plus user acceptance with your own team before anything goes live."
+    },
+    {
+      "step": "06",
+      "title": "Deployment",
+      "copy": "Staged release with rollback, data migration where needed, and training for the teams who take it over."
+    },
+    {
+      "step": "07",
+      "title": "Support",
+      "copy": "Monitoring, maintenance and an agreed response window. Software is a relationship, not a delivery."
+    }
+  ],
+  "why": [
+    {
+      "title": "Business and engineering under one roof",
+      "copy": "Most vendors sell you either strategy or code. We scope the commercial problem and then build the system that solves it, which is why our projects tend to survive contact with real operations."
+    },
+    {
+      "title": "Products already running in production",
+      "copy": "Our fleet platform tracks live vehicles for operators in Pakistan and the UAE today. You are buying something proven, then tailored — not a prototype with your logo on it."
+    },
+    {
+      "title": "Integration is the default, not an extra",
+      "copy": "GPS hardware, payment gateways, accounting packages, ERPs, SMS and WhatsApp. Systems that do not talk to each other create the manual work you hired us to remove."
+    },
+    {
+      "title": "Built to be handed over",
+      "copy": "Documentation, admin tooling and training come with the build. You should be able to run, extend and staff the system without depending on us indefinitely."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+[
+  {
+    "name": "GO Track",
+    "slug": "uae-bilingual-platform",
+    "market": "United Arab Emirates   ·   Fleet telematics operator",
+    "headline": "A fleet platform taken bilingual for the GCC market",
+    "challenge": "GO Track operated a capable English-only fleet management portal. Across the GCC, Arabic support is frequently a mandatory qualification criterion in public-sector and municipal tenders, which placed a category of business out of reach regardless of product quality.",
+    "work": [
+      "Converted the full portal to bilingual English and Arabic with complete right-to-left layout across every screen.",
+      "Separated display values from wire values, so backend statuses continued to drive filtering and logic while only the rendered text was translated.",
+      "Isolated machine-facing date handling from display formatting, preventing locale-converted numerals from reaching backend APIs.",
+      "Delivered Arabic output across all four document paths — PDF, Excel, CSV and print — including correct Arabic glyph shaping in generated reports.",
+      "Added automated localization checks to the build so future releases cannot silently reintroduce untranslated content."
+    ],
+    "outcomes": [
+      {
+        "title": "25",
+        "copy": "Screens fully bilingual"
+      },
+      {
+        "title": "4",
+        "copy": "Document formats in Arabic"
+      },
+      {
+        "title": "1,000+",
+        "copy": "Interface strings translated"
+      }
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Custom Software Development"
+    ],
+    "approved": false
+  },
+  {
+    "name": "Dynamic Tracking Solutions",
+    "slug": "pakistan-mixed-device-platform",
+    "market": "Pakistan   ·   Vehicle tracking operator",
+    "headline": "Commercial vehicle tracking at operator scale",
+    "challenge": "A tracking operator serving commercial customers needed a platform able to run a mixed device estate under one interface, with the reporting depth their own customers demanded and role separation between operator staff and end customers.",
+    "work": [
+      "Deployed the 2M Fleet Telematics platform with multi-company separation so each end customer sees only their own vehicles.",
+      "Integrated across mixed GPS hardware rather than locking the operator to a single device supplier.",
+      "Configured the reporting suite around the reports their customers request most, with scheduled export.",
+      "Provided a customer portal so end users self-serve status instead of calling the operations desk."
+    ],
+    "outcomes": [
+      {
+        "title": "Multi-tenant",
+        "copy": "One platform, many customers"
+      },
+      {
+        "title": "Mixed",
+        "copy": "Device estate supported"
+      },
+      {
+        "title": "Self-serve",
+        "copy": "Customer portal access"
+      }
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Driver Management System"
+    ],
+    "approved": false
+  },
+  {
+    "name": "Hawk I",
+    "slug": "pakistan-security-tracking",
+    "market": "Pakistan   ·   Vehicle tracking operator",
+    "headline": "Tracking, recovery and command execution for a security-focused operator",
+    "challenge": "A tracking operator whose customers buy on security outcomes needed reliable live positioning, immobiliser command execution with confirmation, and an alerting model that distinguishes genuine incidents from noise.",
+    "work": [
+      "Deployed live tracking with continuous position updates and historical route replay for incident reconstruction.",
+      "Implemented remote immobilise and release with confirmation read from the vehicle's own reported state rather than the send response, removing a class of false success.",
+      "Configured geofencing and unauthorised-movement alerts with escalation, so operators act on signal rather than volume.",
+      "Delivered mobile access for field response teams."
+    ],
+    "outcomes": [
+      {
+        "title": "Confirmed",
+        "copy": "Command execution, not assumed"
+      },
+      {
+        "title": "Real-time",
+        "copy": "Alerting with escalation"
+      },
+      {
+        "title": "Mobile",
+        "copy": "Field team access"
+      }
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Mobile App Development"
+    ],
+    "approved": false
+  }
+]

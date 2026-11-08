@@ -1,0 +1,11 @@
+import nextEnv from '@next/env';
+const {loadEnvConfig}=nextEnv;
+loadEnvConfig(process.cwd());
+const e=process.env;const errors=[];
+if(!e.NEXT_PUBLIC_SITE_URL?.startsWith('https://'))errors.push('Set the confirmed HTTPS canonical domain.');
+if(!e.NEXT_PUBLIC_CONTACT_EMAIL||!/^\S+@\S+\.\S+$/.test(e.NEXT_PUBLIC_CONTACT_EMAIL))errors.push('Set the verified contact email.');
+if(!e.NEXT_PUBLIC_CONTACT_PHONE&&!e.NEXT_PUBLIC_WHATSAPP_NUMBER)errors.push('Set at least one verified phone or WhatsApp number.');
+if(!e.CONTACT_WEBHOOK_URL?.startsWith('https://'))errors.push('Configure the HTTPS lead endpoint and test durable acceptance.');
+if(!/^\d{4}-\d{2}-\d{2}$/.test(e.SITE_PUBLICATION_DATE||'')||e.SITE_PUBLICATION_DATE>new Date().toISOString().slice(0,10))errors.push('Set the actual publication date, not a future date.');
+if(e.SITE_INDEXABLE==='false')errors.push('Staging indexing block is still active.');
+if(errors.length){console.error('Launch configuration incomplete:\n'+errors.map(x=>'- '+x).join('\n'));process.exitCode=1;}else console.log('Launch configuration present. Separately confirm delivery, client-name permissions, claims, legal copy and search-console ownership before public release.');

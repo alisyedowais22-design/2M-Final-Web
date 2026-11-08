@@ -1,0 +1,30 @@
+{
+  "title": "Editorial Policy",
+  "intro": "Our insights are written to help operators understand practical software and delivery decisions. The organisation is identified as the author; we do not invent individual authors, credentials or reviewers.",
+  "sections": [
+    {
+      "title": "Who prepares this content",
+      "body": "The supplied source material was prepared by 2M Designers. The articles cover fleet telematics, ERP, retail systems, integration and localisation. The About page describes the company’s work and delivery approach."
+    },
+    {
+      "title": "Experience and evidence",
+      "body": "We distinguish platform capabilities, delivery case studies and illustrative examples. We do not publish invented client testimonials or borrowed performance statistics. Numeric examples state their inputs so you can repeat the calculation with your own figures."
+    },
+    {
+      "title": "Client confidentiality",
+      "body": "Client names are published only after the operator confirms permission and wording. Case studies without that confirmation use an anonymised operator description. An anonymised case study is not a third-party endorsement."
+    },
+    {
+      "title": "Dates and revisions",
+      "body": "Prepared dates identify the drafting dates supplied with the articles. They are not presented as publication dates. When an actual launch date is confirmed, the visible publication date and Article metadata are updated together. The updated date reflects the current content revision."
+    },
+    {
+      "title": "Corrections",
+      "body": "If an explanation is inaccurate or no longer reflects the implementation, contact the team with the article URL and the specific point. Corrections should update both the visible content and its structured data."
+    },
+    {
+      "title": "Commercial context",
+      "body": "2M Designers supplies the software and services discussed here. Articles reflect that commercial experience and are not independent product reviews. Suitability depends on your requirements, devices, configuration and deployment environment."
+    }
+  ]
+}

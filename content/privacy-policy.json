@@ -1,0 +1,38 @@
+{
+  "title": "Privacy Policy",
+  "intro": "How 2M Designers handles information submitted through this website. Product-specific data processing and hosting arrangements are agreed separately with each customer.",
+  "sections": [
+    {
+      "title": "Information you provide",
+      "body": "An enquiry asks for your name, email, phone or WhatsApp number, the solution or service you need, your preferred contact method and your message. Company name is optional. The originating page and submission time accompany the enquiry. Please do not submit passwords, identification documents, payment details or sensitive customer records."
+    },
+    {
+      "title": "How information is used",
+      "body": "We use enquiry details to understand your requirement, respond through your selected channel and follow up on the requested work. Submitting an enquiry does not subscribe you to marketing messages."
+    },
+    {
+      "title": "Delivery and service providers",
+      "body": "When enquiry delivery is enabled, information is transmitted to the configured lead-handling provider for delivery or storage. Hosting infrastructure may record technical request data for operation and security. We do not sell enquiry details. Access should be limited to personnel and providers handling your request."
+    },
+    {
+      "title": "Images and external links",
+      "body": "Industry photographs are embedded from Unsplash. Depending on the hosting setup, your browser or the image optimisation service requests these images from Unsplash. Requests can include technical information such as an IP address. Social-media and WhatsApp links open independent services with their own privacy policies."
+    },
+    {
+      "title": "Cookies and analytics",
+      "body": "This version does not install advertising trackers or analytics cookies. Navigation, accessibility and enquiry submission do not require a marketing-cookie consent. Hosting providers may use essential security mechanisms. If optional tracking is introduced, this policy and any required consent controls must be updated before it is enabled."
+    },
+    {
+      "title": "Retention and your requests",
+      "body": "Enquiry information should be retained only for the response, the resulting business relationship and applicable record-keeping needs. You can request access, correction or deletion through the contact page. Requests are assessed against identity verification and any applicable retention obligations."
+    },
+    {
+      "title": "Security and scope",
+      "body": "The enquiry endpoint validates submitted fields and uses HTTPS to its configured delivery provider. Do not treat website copy as a security certification or a product service-level agreement. The controls, retention schedule and responsibilities for a contracted platform belong in its signed agreement."
+    },
+    {
+      "title": "Policy updates",
+      "body": "Material changes to the website’s collection or use of information will be reflected on this page with an updated date."
+    }
+  ]
+}

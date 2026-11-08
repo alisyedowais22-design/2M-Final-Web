@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Logistics & Transport",
+    "slug": "logistics-transport",
+    "summary": "Fleet visibility, driver accountability and delivery performance across mixed fleets and subcontractors.",
+    "problems": [
+      "Vehicles and drivers tracked in separate systems",
+      "Fuel loss with no evidence trail",
+      "Customers calling for delivery status"
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Driver Management System",
+      "2M Ship Flow"
+    ]
+  },
+  {
+    "name": "Distribution & Wholesale",
+    "slug": "distribution-wholesale",
+    "summary": "Stock accuracy across branches and vans, with orders, deliveries and invoicing on one system.",
+    "problems": [
+      "Stock on the system does not match the warehouse",
+      "Van sales reconciled manually",
+      "Margin visible only after month-end"
+    ],
+    "related": [
+      "2M ERP",
+      "2M POS",
+      "2M Fleet Telematics"
+    ]
+  },
+  {
+    "name": "Retail & Multi-Branch",
+    "slug": "retail-multi-branch",
+    "summary": "Fast counters, accurate inventory and consolidated reporting across every branch.",
+    "problems": [
+      "Branch stock and pricing drift apart",
+      "Slow, error-prone billing at peak",
+      "No single view of group performance"
+    ],
+    "related": [
+      "2M POS",
+      "2M ERP",
+      "Website Development"
+    ]
+  },
+  {
+    "name": "Shipping & Freight Forwarding",
+    "slug": "shipping-freight-forwarding",
+    "summary": "Quotation to invoice on one record, with documents controlled and margin visible per shipment.",
+    "problems": [
+      "Shipment history spread across email and folders",
+      "Documentation errors causing delays",
+      "Profitability known too late"
+    ],
+    "related": [
+      "2M Ship Flow",
+      "2M ERP",
+      "API Development & Integrations"
+    ]
+  },
+  {
+    "name": "Manufacturing",
+    "slug": "manufacturing",
+    "summary": "Production, inventory, procurement and dispatch connected to finance rather than reconciled to it.",
+    "problems": [
+      "Raw material and finished goods tracked separately",
+      "Manual purchase approvals",
+      "Dispatch not linked to invoicing"
+    ],
+    "related": [
+      "2M ERP",
+      "Custom Software Development",
+      "Task Management System"
+    ]
+  },
+  {
+    "name": "Cold Chain & Pharma",
+    "slug": "cold-chain-pharma",
+    "summary": "Temperature integrity evidenced end to end, with exportable compliance records.",
+    "problems": [
+      "Temperature excursions found after delivery",
+      "Manual compliance paperwork",
+      "No audit trail for regulators"
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Driver Management System",
+      "API Development & Integrations"
+    ]
+  },
+  {
+    "name": "Construction & Heavy Equipment",
+    "slug": "construction-heavy-equipment",
+    "summary": "Asset utilisation, unauthorised movement and maintenance across sites and plant.",
+    "problems": [
+      "Equipment idle or missing across sites",
+      "Unauthorised out-of-hours use",
+      "Reactive rather than planned maintenance"
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "Task Management System",
+      "Driver Management System"
+    ]
+  },
+  {
+    "name": "Public Sector & Municipal",
+    "slug": "public-sector-municipal",
+    "summary": "Accountable fleet operations with Arabic support and the reporting tenders require.",
+    "problems": [
+      "Arabic language a procurement requirement",
+      "Audit and reporting obligations",
+      "Multiple departments, one fleet"
+    ],
+    "related": [
+      "2M Fleet Telematics",
+      "2M ERP",
+      "Driver Management System"
+    ]
+  },
+  {
+    "name": "Education & Multi-Campus",
+    "slug": "education-multi-campus",
+    "summary": "Student, teacher, fee, payroll and accounting workflows connected across one institution or an entire campus group.",
+    "problems": [
+      "Student and fee records maintained in separate files",
+      "Outstanding balances followed up without reliable ageing",
+      "Management reports prepared manually after month-end"
+    ],
+    "related": [
+      "2M School Management System",
+      "2M ERP",
+      "Cloud Hosting & Infrastructure"
+    ]
+  }
+]

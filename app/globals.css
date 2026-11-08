@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #FFFFFF;
+  color: #0E1A33;
+}
+
+::selection {
+  background: #C81E2C;
+  color: #f1efe6;
+}
+
+@layer utilities {
+  .container-content {
+    @apply mx-auto w-full max-w-content px-6 md:px-10;
+  }
+
+  .label-eyebrow {
+    @apply font-mono text-[11px] uppercase tracking-label text-bronze;
+  }
+
+  .hairline {
+    @apply border-t border-paper-line;
+  }
+
+  .hairline-dark {
+    @apply border-t border-ink-line;
+  }
+
+  .focus-ring {
+    @apply outline-none focus-visible:ring-2 focus-visible:ring-bronze focus-visible:ring-offset-2 focus-visible:ring-offset-paper;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+[id] { scroll-margin-top: 110px; }
+.skip-link { position: fixed; top: -100px; left: 1rem; z-index: 100; background: white; color: #0E1A33; padding: 1rem; }
+.skip-link:focus { top: 1rem; }
+.article-copy { font-size: 1rem; line-height: 1.85; color: rgba(14,26,51,.8); overflow-wrap: anywhere; }
+.article-copy p, .article-copy ul { margin-top: 1.25rem; }
+.article-copy h2 { margin-top: 2.75rem; margin-bottom: 1rem; color: #0E1A33; font-family: var(--font-space-grotesk), sans-serif; font-size: 1.75rem; font-weight: 500; line-height: 1.25; }
+.article-copy h2:first-child { margin-top: 0; }
+summary::-webkit-details-marker { display: none; }
+.solution-reel-track { animation: solution-reel 34s linear infinite; will-change: transform; }
+.solution-reel:hover .solution-reel-track,
+.solution-reel:focus-within .solution-reel-track { animation-play-state: paused; }
+.card-lift { transition: transform .3s ease, box-shadow .3s ease, border-color .3s ease; }
+.card-lift:hover { transform: translateY(-4px); border-color: rgba(200,30,44,.28); box-shadow: 0 22px 45px -28px rgba(14,26,51,.45); }
+/* Seven category images, five seconds each. CSS-only so the hero continues even if client JS has not hydrated. */
+.hero-slide { opacity: 0; z-index: 0; animation: hero-slide-cycle 35s linear infinite; }
+@keyframes hero-slide-cycle {
+  0%, 12% { opacity: 1; z-index: 2; transform: scale(1); }
+  14.285%, 100% { opacity: 0; z-index: 0; transform: scale(1.035); }
+}
+@keyframes solution-reel { from { transform: translateY(0); } to { transform: translateY(-50%); } }
+@media print { header, footer, form, aside { display:none!important; } body { background:white;color:black; } }
+@media (prefers-reduced-motion: reduce) { .solution-reel-track { animation: none; } .solution-reel { overflow-y: auto; } }
+@media (prefers-reduced-motion: reduce) {
+  .hero-slide { animation-duration: 35s !important; animation-iteration-count: infinite !important; }
+}
